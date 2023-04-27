@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1816 881.67">
+  <title>logoOutlineBlackDynamic</title>
+  <text transform="translate(164.01 574.34)" font-size="400" fill="none" stroke="#fff" font-family="MyriadPro-Regular, Myriad Pro">FIGURED</text>
+  <circle cx="908" cy="109.97" r="94.97" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="30"/>
+  <path d="M783.12,828H120a12,12,0,0,1-12-12V184a12,12,0,0,1,12-12H784" transform="translate(-92 -62.03)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="32"/>
+  <path d="M783.12,828" transform="translate(-92 -62.03)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="32"/>
+  <path d="M1215.63,172H1880a12,12,0,0,1,12,12V816a12,12,0,0,1-12,12H1215.13" transform="translate(-92 -62.03)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="32"/>
+  <line x1="792.3" y1="765.97" x2="1023.7" y2="765.97" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="32"/>
+  <line x1="908" y1="650.27" x2="908" y2="881.67" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="32"/>
+</svg>

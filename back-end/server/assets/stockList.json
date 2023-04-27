@@ -1,0 +1,4195 @@
+{
+   "American Airlines Group Inc.": {
+      "Symbol": "AAL",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Air Freight/Delivery Services"
+   },
+   "AAON Inc.": {
+      "Symbol": "AAON",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Industrial Machinery/Components"
+   },
+   "Apple Inc.": {
+      "Symbol": "AAPL",
+      "Country": "United States",
+      "IPO Year": 1980,
+      "Sector": "Technology",
+      "Industry": "Computer Manufacturing"
+   },
+   "Atlas Air Worldwide Holdings NEW": {
+      "Symbol": "AAWW",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Transportation Services"
+   },
+   "Ameris Bancorp": {
+      "Symbol": "ABCB",
+      "Country": "United States",
+      "IPO Year": 1994,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Abcam plc American Depositary Shares": {
+      "Symbol": "ABCM",
+      "Country": "United Kingdom",
+      "IPO Year": 2020,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+   },
+   "Airbnb Inc.": {
+      "Symbol": "ABNB",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Hotels/Resorts"
+   },
+   "ACADIA Pharmaceuticals Inc.": {
+      "Symbol": "ACAD",
+      "Country": "United States",
+      "IPO Year": 1985,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Acadia Healthcare Company Inc.": {
+      "Symbol": "ACHC",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": "Hospital/Nursing Management"
+   },
+   "ACI Worldwide Inc.": {
+      "Symbol": "ACIW",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Axcelis Technologies Inc.": {
+      "Symbol": "ACLS",
+      "Country": "United States",
+      "IPO Year": 2000,
+      "Sector": "Technology",
+      "Industry": "Industrial Machinery/Components"
+   },
+   "Enact Holdings Inc.": {
+      "Symbol": "ACT",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Finance",
+      "Industry": "Specialty Insurers"
+   },
+   "Adobe Inc.": {
+      "Symbol": "ADBE",
+      "Country": "United States",
+      "IPO Year": 1986,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Analog Devices Inc.": {
+      "Symbol": "ADI",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Automatic Data Processing Inc.": {
+      "Symbol": "ADP",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Business Services"
+   },
+   "Autodesk Inc.": {
+      "Symbol": "ADSK",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Advanced Energy Industries Inc.": {
+      "Symbol": "AEIS",
+      "Country": "United States",
+      "IPO Year": 1995,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Electrical Products"
+   },
+   "American Electric Power Company Inc.": {
+      "Symbol": "AEP",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Utilities",
+      "Industry": "Electric Utilities: Central"
+   },
+   "Affirm Holdings Inc.": {
+      "Symbol": "AFRM",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "AGNC Investment Corp.": {
+      "Symbol": "AGNC",
+      "Country": "United States",
+      "IPO Year": 2008,
+      "Sector": "Real Estate",
+      "Industry": "Real Estate Investment Trusts"
+   },
+   "Agilysys Inc. (DE)": {
+      "Symbol": "AGYS",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "AdaptHealth Corp.": {
+      "Symbol": "AHCO",
+      "Country": "United States",
+      "IPO Year": 2018,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
+   },
+   "Altra Industrial Motion Corp.": {
+      "Symbol": "AIMC",
+      "Country": "United States",
+      "IPO Year": 2006,
+      "Sector": "Industrials",
+      "Industry": "Industrial Machinery/Components"
+   },
+   "Akamai Technologies Inc.": {
+      "Symbol": "AKAM",
+      "Country": "United States",
+      "IPO Year": 1999,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Business Services"
+   },
+   "Akero Therapeutics Inc.": {
+      "Symbol": "AKRO",
+      "Country": "United States",
+      "IPO Year": 2019,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Allegro MicroSystems Inc.": {
+      "Symbol": "ALGM",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Align Technology Inc.": {
+      "Symbol": "ALGN",
+      "Country": "United States",
+      "IPO Year": 2001,
+      "Sector": "Health Care",
+      "Industry": "Industrial Specialties"
+   },
+   "Alignment Healthcare Inc.": {
+      "Symbol": "ALHC",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Health Care",
+      "Industry": "Medical Specialities"
+   },
+   "Alnylam Pharmaceuticals Inc.": {
+      "Symbol": "ALNY",
+      "Country": "United States",
+      "IPO Year": 2004,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Alarm.com Holdings Inc.": {
+      "Symbol": "ALRM",
+      "Country": "United States",
+      "IPO Year": 2015,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Altair Engineering Inc.": {
+      "Symbol": "ALTR",
+      "Country": "United States",
+      "IPO Year": 2017,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Applied Materials Inc.": {
+      "Symbol": "AMAT",
+      "Country": "United States",
+      "IPO Year": 1972,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Ambarella Inc. Ordinary Shares": {
+      "Symbol": "AMBA",
+      "Country": "United States",
+      "IPO Year": 2012,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Advanced Micro Devices Inc.": {
+      "Symbol": "AMD",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Amedisys Inc": {
+      "Symbol": "AMED",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": "Medical/Nursing Services"
+   },
+   "Amgen Inc.": {
+      "Symbol": "AMGN",
+      "Country": "United States",
+      "IPO Year": 1983,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Amkor Technology Inc.": {
+      "Symbol": "AMKR",
+      "Country": "United States",
+      "IPO Year": 1998,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Amylyx Pharmaceuticals Inc.": {
+      "Symbol": "AMLX",
+      "Country": "United States",
+      "IPO Year": 2022,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Amazon.com Inc.": {
+      "Symbol": "AMZN",
+      "Country": "United States",
+      "IPO Year": 1997,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Catalog/Specialty Distribution"
+   },
+   "ANSYS Inc.": {
+      "Symbol": "ANSS",
+      "Country": "United States",
+      "IPO Year": 1996,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "APA Corporation": {
+      "Symbol": "APA",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Energy",
+      "Industry": "Oil & Gas Production"
+   },
+   "Apellis Pharmaceuticals Inc.": {
+      "Symbol": "APLS",
+      "Country": "United States",
+      "IPO Year": 2017,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Applovin Corporation": {
+      "Symbol": "APP",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "AppFolio Inc.": {
+      "Symbol": "APPF",
+      "Country": "United States",
+      "IPO Year": 2015,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Appian Corporation": {
+      "Symbol": "APPN",
+      "Country": "United States",
+      "IPO Year": 2017,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "ArcBest Corporation": {
+      "Symbol": "ARCB",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Trucking Freight/Courier Services"
+   },
+   "Ares Capital Corporation": {
+      "Symbol": "ARCC",
+      "Country": "United States",
+      "IPO Year": 2004,
+      "Sector": "Finance",
+      "Industry": "Finance/Investors Services"
+   },
+   "Alliance Resource Partners L.P. Common Units representing Limited Partners Interests": {
+      "Symbol": "ARLP",
+      "Country": "United States",
+      "IPO Year": 1999,
+      "Sector": "Energy",
+      "Industry": "Coal Mining"
+   },
+   "Array Technologies Inc.": {
+      "Symbol": "ARRY",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Arrowhead Pharmaceuticals Inc.": {
+      "Symbol": "ARWR",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Academy Sports and Outdoors Inc.": {
+      "Symbol": "ASO",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Recreational Games/Products/Toys"
+   },
+   "Activision Blizzard Inc.": {
+      "Symbol": "ATVI",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Recreational Games/Products/Toys"
+   },
+   "AeroVironment Inc.": {
+      "Symbol": "AVAV",
+      "Country": "United States",
+      "IPO Year": 2007,
+      "Sector": "Industrials",
+      "Industry": "Aerospace"
+   },
+   "Broadcom Inc.": {
+      "Symbol": "AVGO",
+      "Country": "United States",
+      "IPO Year": 2009,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Avnet Inc.": {
+      "Symbol": "AVT",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Electronic Components"
+   },
+   "Axonics Inc.": {
+      "Symbol": "AXNX",
+      "Country": "United States",
+      "IPO Year": 2018,
+      "Sector": "Health Care",
+      "Industry": "Medical/Dental Instruments"
+   },
+   "Axon Enterprise Inc.": {
+      "Symbol": "AXON",
+      "Country": "United States",
+      "IPO Year": 2001,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Military/Government/Technical"
+   },
+   "Axsome Therapeutics Inc.": {
+      "Symbol": "AXSM",
+      "Country": "United States",
+      "IPO Year": 2015,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Atlantica Sustainable Infrastructure plc Ordinary Shares": {
+      "Symbol": "AY",
+      "Country": "United Kingdom",
+      "IPO Year": 2014,
+      "Sector": "Utilities",
+      "Industry": "Electric Utilities: Central"
+   },
+   "AstraZeneca PLC American Depositary Shares": {
+      "Symbol": "AZN",
+      "Country": "United Kingdom",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Aspen Technology Inc.": {
+      "Symbol": "AZPN",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Azenta Inc.": {
+      "Symbol": "AZTA",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": "Medical/Dental Instruments"
+   },
+   "BancFirst Corporation": {
+      "Symbol": "BANF",
+      "Country": "United States",
+      "IPO Year": 1993,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Banner Corporation": {
+      "Symbol": "BANR",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Balchem Corporation": {
+      "Symbol": "BCPC",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Industrial Specialties"
+   },
+   "Beam Therapeutics Inc.": {
+      "Symbol": "BEAM",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Health Care",
+      "Industry": " Medicinal Chemicals and Botanical Products "
+   },
+   "Beacon Roofing Supply Inc.": {
+      "Symbol": "BECN",
+      "Country": "United States",
+      "IPO Year": 2004,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Wholesale Distributors"
+   },
+   "Brighthouse Financial Inc.": {
+      "Symbol": "BHF",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Life Insurance"
+   },
+   "Biogen Inc.": {
+      "Symbol": "BIIB",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Booking Holdings Inc.": {
+      "Symbol": "BKNG",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Other Consumer Services"
+   },
+   "Baker Hughes Company": {
+      "Symbol": "BKR",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Energy",
+      "Industry": "Oilfield Services/Equipment"
+   },
+   "BlackLine Inc.": {
+      "Symbol": "BL",
+      "Country": "United States",
+      "IPO Year": 2016,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Blackbaud Inc.": {
+      "Symbol": "BLKB",
+      "Country": "United States",
+      "IPO Year": 2004,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Bloomin' Brands Inc.": {
+      "Symbol": "BLMN",
+      "Country": "United States",
+      "IPO Year": 2012,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Restaurants"
+   },
+   "Bumble Inc.": {
+      "Symbol": "BMBL",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "BioMarin Pharmaceutical Inc.": {
+      "Symbol": "BMRN",
+      "Country": "United States",
+      "IPO Year": 1999,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "BOK Financial Corporation": {
+      "Symbol": "BOKF",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Blueprint Medicines Corporation": {
+      "Symbol": "BPMC",
+      "Country": "United States",
+      "IPO Year": 2015,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Popular Inc.": {
+      "Symbol": "BPOP",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Bruker Corporation": {
+      "Symbol": "BRKR",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Biotechnology: Laboratory Analytical Instruments"
+   },
+   "Braze Inc.": {
+      "Symbol": "BRZE",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Bentley Systems Incorporated Class B": {
+      "Symbol": "BSY",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Technology",
+      "Industry": "Retail: Computer Software & Peripheral Equipment"
+   },
+   "Credit Acceptance Corporation": {
+      "Symbol": "CACC",
+      "Country": "United States",
+      "IPO Year": 1992,
+      "Sector": "Finance",
+      "Industry": "Finance: Consumer Services"
+   },
+   "Cheesecake Factory Incorporated (The)": {
+      "Symbol": "CAKE",
+      "Country": "United States",
+      "IPO Year": 1992,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Restaurants"
+   },
+   "Cal-Maine Foods Inc.": {
+      "Symbol": "CALM",
+      "Country": "United States",
+      "IPO Year": 1996,
+      "Sector": "Consumer Staples",
+      "Industry": "Farming/Seeds/Milling"
+   },
+   "Avis Budget Group Inc.": {
+      "Symbol": "CAR",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Rental/Leasing Companies"
+   },
+   "Casey's General Stores Inc.": {
+      "Symbol": "CASY",
+      "Country": "United States",
+      "IPO Year": 1983,
+      "Sector": "Miscellaneous",
+      "Industry": "Diversified Commercial Services"
+   },
+   "Cathay General Bancorp": {
+      "Symbol": "CATY",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Cracker Barrel Old Country Store Inc": {
+      "Symbol": "CBRL",
+      "Country": "United States",
+      "IPO Year": 1981,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Restaurants"
+   },
+   "Commerce Bancshares Inc.": {
+      "Symbol": "CBSH",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "CCC Intelligent Solutions Holdings Inc.": {
+      "Symbol": "CCCS",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Coca-Cola Europacific Partners plc Ordinary Shares": {
+      "Symbol": "CCEP",
+      "Country": "United Kingdom",
+      "IPO Year": null,
+      "Sector": "Consumer Staples",
+      "Industry": "Beverages (Production/Distribution)"
+   },
+   "Cogent Communications Holdings Inc.": {
+      "Symbol": "CCOI",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Telecommunications Equipment"
+   },
+   "Cadence Design Systems Inc.": {
+      "Symbol": "CDNS",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "CDW Corporation": {
+      "Symbol": "CDW",
+      "Country": "United States",
+      "IPO Year": 2013,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Catalog/Specialty Distribution"
+   },
+   "Constellation Energy Corporation ": {
+      "Symbol": "CEG",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Utilities",
+      "Industry": "Power Generation"
+   },
+   "Celsius Holdings Inc.": {
+      "Symbol": "CELH",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Staples",
+      "Industry": "Beverages (Production/Distribution)"
+   },
+   "Central Garden & Pet Company": {
+      "Symbol": "CENT",
+      "Country": "United States",
+      "IPO Year": 1993,
+      "Sector": "",
+      "Industry": ""
+   },
+   "Central Garden & Pet Company Nonvoting": {
+      "Symbol": "CENTA",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "",
+      "Industry": ""
+   },
+   "Cerevel Therapeutics Holdings Inc.": {
+      "Symbol": "CERE",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Certara Inc.": {
+      "Symbol": "CERT",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Technology",
+      "Industry": "Retail: Computer Software & Peripheral Equipment"
+   },
+   "Confluent Inc.": {
+      "Symbol": "CFLT",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "The Carlyle Group Inc.": {
+      "Symbol": "CG",
+      "Country": "United States",
+      "IPO Year": 2012,
+      "Sector": "Finance",
+      "Industry": "Investment Managers"
+   },
+   "Cognex Corporation": {
+      "Symbol": "CGNX",
+      "Country": "United States",
+      "IPO Year": 1989,
+      "Sector": "Industrials",
+      "Industry": "Industrial Machinery/Components"
+   },
+   "Churchill Downs Incorporated": {
+      "Symbol": "CHDN",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Services-Misc. Amusement & Recreation"
+   },
+   "Chesapeake Energy Corporation": {
+      "Symbol": "CHK",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Energy",
+      "Industry": "Oil & Gas Production"
+   },
+   "Chord Energy Corporation": {
+      "Symbol": "CHRD",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Energy",
+      "Industry": "Oil & Gas Production"
+   },
+   "C.H. Robinson Worldwide Inc.": {
+      "Symbol": "CHRW",
+      "Country": "United States",
+      "IPO Year": 1997,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Oil Refining/Marketing"
+   },
+   "Charter Communications Inc. New": {
+      "Symbol": "CHTR",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Telecommunications Equipment"
+   },
+   "ChampionX Corporation ": {
+      "Symbol": "CHX",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Construction/Ag Equipment/Trucks"
+   },
+   "Cincinnati Financial Corporation": {
+      "Symbol": "CINF",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Property-Casualty Insurers"
+   },
+   "Columbia Financial Inc.": {
+      "Symbol": "CLBK",
+      "Country": "United States",
+      "IPO Year": 2018,
+      "Sector": "Finance",
+      "Industry": "Commercial Banks"
+   },
+   "Comcast Corporation": {
+      "Symbol": "CMCSA",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Telecommunications Equipment"
+   },
+   "CME Group Inc.": {
+      "Symbol": "CME",
+      "Country": "United States",
+      "IPO Year": 2002,
+      "Sector": "Finance",
+      "Industry": "Investment Bankers/Brokers/Service"
+   },
+   "Concentrix Corporation": {
+      "Symbol": "CNXC",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Coherent Corp.": {
+      "Symbol": "COHR",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Industrial Machinery/Components"
+   },
+   "Coinbase Global Inc.": {
+      "Symbol": "COIN",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Coca-Cola Consolidated Inc.": {
+      "Symbol": "COKE",
+      "Country": "United States",
+      "IPO Year": 1972,
+      "Sector": "Consumer Staples",
+      "Industry": "Beverages (Production/Distribution)"
+   },
+   "Columbia Banking System Inc.": {
+      "Symbol": "COLB",
+      "Country": "United States",
+      "IPO Year": 1992,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Columbia Sportswear Company": {
+      "Symbol": "COLM",
+      "Country": "United States",
+      "IPO Year": 1998,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Apparel"
+   },
+   "Mr. Cooper Group Inc.": {
+      "Symbol": "COOP",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Finance: Consumer Services"
+   },
+   "Corcept Therapeutics Incorporated": {
+      "Symbol": "CORT",
+      "Country": "United States",
+      "IPO Year": 2004,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Costco Wholesale Corporation": {
+      "Symbol": "COST",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Department/Specialty Retail Stores"
+   },
+   "Coupa Software Incorporated": {
+      "Symbol": "COUP",
+      "Country": "United States",
+      "IPO Year": 2016,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Copart Inc. (DE)": {
+      "Symbol": "CPRT",
+      "Country": "United States",
+      "IPO Year": 1994,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Other Specialty Stores"
+   },
+   "Cricut Inc.": {
+      "Symbol": "CRCT",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Industrials",
+      "Industry": "Wholesale Distributors"
+   },
+   "Crocs Inc.": {
+      "Symbol": "CROX",
+      "Country": "United States",
+      "IPO Year": 2006,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Shoe Manufacturing"
+   },
+   "Cirrus Logic Inc.": {
+      "Symbol": "CRUS",
+      "Country": "United States",
+      "IPO Year": 1989,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "CorVel Corp.": {
+      "Symbol": "CRVL",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Specialty Insurers"
+   },
+   "CrowdStrike Holdings Inc.": {
+      "Symbol": "CRWD",
+      "Country": "United States",
+      "IPO Year": 2019,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Cisco Systems Inc. (DE)": {
+      "Symbol": "CSCO",
+      "Country": "United States",
+      "IPO Year": 1990,
+      "Sector": "Telecommunications",
+      "Industry": "Computer Communications Equipment"
+   },
+   "CoStar Group Inc.": {
+      "Symbol": "CSGP",
+      "Country": "United States",
+      "IPO Year": 1998,
+      "Sector": "Finance",
+      "Industry": "Real Estate"
+   },
+   "Calamos Strategic Total Return": {
+      "Symbol": "CSQ",
+      "Country": "United States",
+      "IPO Year": 2004,
+      "Sector": "Finance",
+      "Industry": "Finance Companies"
+   },
+   "CSW Industrials Inc.": {
+      "Symbol": "CSWI",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Home Furnishings"
+   },
+   "CSX Corporation": {
+      "Symbol": "CSX",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Railroads"
+   },
+   "Cintas Corporation": {
+      "Symbol": "CTAS",
+      "Country": "United States",
+      "IPO Year": 1983,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Business Services"
+   },
+   "Cognizant Technology Solutions Corporation": {
+      "Symbol": "CTSH",
+      "Country": "United States",
+      "IPO Year": 1998,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "CVB Financial Corporation": {
+      "Symbol": "CVBF",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Cavco Industries Inc. When Issued": {
+      "Symbol": "CVCO",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Homebuilding"
+   },
+   "Commvault Systems Inc.": {
+      "Symbol": "CVLT",
+      "Country": "United States",
+      "IPO Year": 2006,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Cvent Holding Corp.": {
+      "Symbol": "CVT",
+      "Country": "United States",
+      "IPO Year": 1987,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Casella Waste Systems Inc.": {
+      "Symbol": "CWST",
+      "Country": "United States",
+      "IPO Year": 1997,
+      "Sector": "Utilities",
+      "Industry": "Environmental Services"
+   },
+   "Cytokinetics Incorporated": {
+      "Symbol": "CYTK",
+      "Country": "United States",
+      "IPO Year": 2004,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Caesars Entertainment Inc.": {
+      "Symbol": "CZR",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Hotels/Resorts"
+   },
+   "Dropbox Inc.": {
+      "Symbol": "DBX",
+      "Country": "United States",
+      "IPO Year": 2018,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Duck Creek Technologies Inc.": {
+      "Symbol": "DCT",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Technology",
+      "Industry": "Retail: Computer Software & Peripheral Equipment"
+   },
+   "Datadog Inc.": {
+      "Symbol": "DDOG",
+      "Country": "United States",
+      "IPO Year": 2019,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Diodes Incorporated": {
+      "Symbol": "DIOD",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "DISH Network Corporation": {
+      "Symbol": "DISH",
+      "Country": "United States",
+      "IPO Year": 1995,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Telecommunications Equipment"
+   },
+   "DraftKings Inc.": {
+      "Symbol": "DKNG",
+      "Country": "United States",
+      "IPO Year": 2019,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Services-Misc. Amusement & Recreation"
+   },
+   "Dollar Tree Inc.": {
+      "Symbol": "DLTR",
+      "Country": "United States",
+      "IPO Year": 1995,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Department/Specialty Retail Stores"
+   },
+   "Denali Therapeutics Inc.": {
+      "Symbol": "DNLI",
+      "Country": "United States",
+      "IPO Year": 2017,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+   },
+   "Krispy Kreme Inc.": {
+      "Symbol": "DNUT",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Specialty Foods"
+   },
+   "DocuSign Inc.": {
+      "Symbol": "DOCU",
+      "Country": "United States",
+      "IPO Year": 2018,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Dorman Products Inc.": {
+      "Symbol": "DORM",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Auto Parts:O.E.M."
+   },
+   "Driven Brands Holdings Inc.": {
+      "Symbol": "DRVN",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "",
+      "Industry": ""
+   },
+   "Duolingo Inc.": {
+      "Symbol": "DUOL",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "DexCom Inc.": {
+      "Symbol": "DXCM",
+      "Country": "United States",
+      "IPO Year": 2005,
+      "Sector": "Health Care",
+      "Industry": "Medical Specialities"
+   },
+   "Electronic Arts Inc.": {
+      "Symbol": "EA",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Recreational Games/Products/Toys"
+   },
+   "eBay Inc.": {
+      "Symbol": "EBAY",
+      "Country": "United States",
+      "IPO Year": 1998,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Catalog/Specialty Distribution"
+   },
+   "Eastern Bankshares Inc.": {
+      "Symbol": "EBC",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Euronet Worldwide Inc.": {
+      "Symbol": "EEFT",
+      "Country": "United States",
+      "IPO Year": 1997,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Enterprise Financial Services Corporation": {
+      "Symbol": "EFSC",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Enphase Energy Inc.": {
+      "Symbol": "ENPH",
+      "Country": "United States",
+      "IPO Year": 2012,
+      "Sector": "Technology",
+      "Industry": "Electrical Products"
+   },
+   "The Ensign Group Inc.": {
+      "Symbol": "ENSG",
+      "Country": "United States",
+      "IPO Year": 2007,
+      "Sector": "Health Care",
+      "Industry": "Hospital/Nursing Management"
+   },
+   "Entegris Inc.": {
+      "Symbol": "ENTG",
+      "Country": "United States",
+      "IPO Year": 2000,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Equinix Inc. REIT": {
+      "Symbol": "EQIX",
+      "Country": "United States",
+      "IPO Year": 2000,
+      "Sector": "Real Estate",
+      "Industry": "Real Estate Investment Trusts"
+   },
+   "Erie Indemnity Company": {
+      "Symbol": "ERIE",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Specialty Insurers"
+   },
+   "Etsy Inc.": {
+      "Symbol": "ETSY",
+      "Country": "United States",
+      "IPO Year": 2015,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Catalog/Specialty Distribution"
+   },
+   "Evergy Inc.": {
+      "Symbol": "EVRG",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Utilities",
+      "Industry": "Power Generation"
+   },
+   "East West Bancorp Inc.": {
+      "Symbol": "EWBC",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Commercial Banks"
+   },
+   "Exact Sciences Corporation": {
+      "Symbol": "EXAS",
+      "Country": "United States",
+      "IPO Year": 2001,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Commercial Physical & Biological Resarch"
+   },
+   "Exelon Corporation": {
+      "Symbol": "EXC",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Utilities",
+      "Industry": "Power Generation"
+   },
+   "Exelixis Inc.": {
+      "Symbol": "EXEL",
+      "Country": "United States",
+      "IPO Year": 2000,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Commercial Physical & Biological Resarch"
+   },
+   "ExlService Holdings Inc.": {
+      "Symbol": "EXLS",
+      "Country": "United States",
+      "IPO Year": 2006,
+      "Sector": "Technology",
+      "Industry": "Retail: Computer Software & Peripheral Equipment"
+   },
+   "Expeditors International of Washington Inc.": {
+      "Symbol": "EXPD",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Oil Refining/Marketing"
+   },
+   "Expedia Group Inc.": {
+      "Symbol": "EXPE",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Other Consumer Services"
+   },
+   "eXp World Holdings Inc.": {
+      "Symbol": "EXPI",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Real Estate"
+   },
+   "Exponent Inc.": {
+      "Symbol": "EXPO",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Professional Services"
+   },
+   "Extreme Networks Inc.": {
+      "Symbol": "EXTR",
+      "Country": "United States",
+      "IPO Year": 1999,
+      "Sector": "Telecommunications",
+      "Industry": "Telecommunications Equipment"
+   },
+   "National Vision Holdings Inc.": {
+      "Symbol": "EYE",
+      "Country": "United States",
+      "IPO Year": 2017,
+      "Sector": "Health Care",
+      "Industry": "Ophthalmic Goods"
+   },
+   "First Advantage Corporation": {
+      "Symbol": "FA",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Business Services"
+   },
+   "Diamondback Energy Inc.": {
+      "Symbol": "FANG",
+      "Country": "United States",
+      "IPO Year": 2012,
+      "Sector": "Energy",
+      "Industry": "Oil & Gas Production"
+   },
+   "Fastenal Company": {
+      "Symbol": "FAST",
+      "Country": "United States",
+      "IPO Year": 1987,
+      "Sector": "Basic Materials",
+      "Industry": "Construction Materials"
+   },
+   "FirstCash Holdings Inc.": {
+      "Symbol": "FCFS",
+      "Country": "United States",
+      "IPO Year": 1991,
+      "Sector": "Miscellaneous",
+      "Industry": "Diversified Commercial Services"
+   },
+   "First Citizens BancShares Inc.": {
+      "Symbol": "FCNCA",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Franklin Electric Co. Inc.": {
+      "Symbol": "FELE",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Metal Fabrications"
+   },
+   "First Financial Bancorp.": {
+      "Symbol": "FFBC",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "First Financial Bankshares Inc.": {
+      "Symbol": "FFIN",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "F5 Inc.": {
+      "Symbol": "FFIV",
+      "Country": "United States",
+      "IPO Year": 1999,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "FibroGen Inc": {
+      "Symbol": "FGEN",
+      "Country": "United States",
+      "IPO Year": 2014,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "First Hawaiian Inc.": {
+      "Symbol": "FHB",
+      "Country": "United States",
+      "IPO Year": 2016,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "First Interstate BancSystem Inc.": {
+      "Symbol": "FIBK",
+      "Country": "United States",
+      "IPO Year": 2010,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Fiserv Inc.": {
+      "Symbol": "FISV",
+      "Country": "United States",
+      "IPO Year": 1986,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Business Services"
+   },
+   "Fifth Third Bancorp": {
+      "Symbol": "FITB",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Five Below Inc.": {
+      "Symbol": "FIVE",
+      "Country": "United States",
+      "IPO Year": 2012,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Department/Specialty Retail Stores"
+   },
+   "Five9 Inc.": {
+      "Symbol": "FIVN",
+      "Country": "United States",
+      "IPO Year": 2014,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "National Beverage Corp.": {
+      "Symbol": "FIZZ",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Staples",
+      "Industry": "Beverages (Production/Distribution)"
+   },
+   "Fluence Energy Inc.": {
+      "Symbol": "FLNC",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Utilities",
+      "Industry": "Power Generation"
+   },
+   "Flywire Corporation Voting": {
+      "Symbol": "FLYW",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Focus Financial Partners Inc.": {
+      "Symbol": "FOCS",
+      "Country": "United States",
+      "IPO Year": 2018,
+      "Sector": "Finance",
+      "Industry": "Investment Managers"
+   },
+   "Amicus Therapeutics Inc.": {
+      "Symbol": "FOLD",
+      "Country": "United States",
+      "IPO Year": 2007,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "FormFactor Inc. FormFactor Inc.": {
+      "Symbol": "FORM",
+      "Country": "United States",
+      "IPO Year": 2003,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Fox Corporation Class B": {
+      "Symbol": "FOX",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Broadcasting"
+   },
+   "Fox Corporation": {
+      "Symbol": "FOXA",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Broadcasting"
+   },
+   "Fox Factory Holding Corp.": {
+      "Symbol": "FOXF",
+      "Country": "United States",
+      "IPO Year": 2013,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Auto Parts:O.E.M."
+   },
+   "First Merchants Corporation": {
+      "Symbol": "FRME",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "JFrog Ltd. Ordinary Shares": {
+      "Symbol": "FROG",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Freshpet Inc.": {
+      "Symbol": "FRPT",
+      "Country": "United States",
+      "IPO Year": 2014,
+      "Sector": "",
+      "Industry": ""
+   },
+   "Freshworks Inc.": {
+      "Symbol": "FRSH",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "First Solar Inc.": {
+      "Symbol": "FSLR",
+      "Country": "United States",
+      "IPO Year": 2006,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "FTAI Aviation Ltd.": {
+      "Symbol": "FTAI",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Diversified Commercial Services"
+   },
+   "Frontdoor Inc.": {
+      "Symbol": "FTDR",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Other Consumer Services"
+   },
+   "Fortinet Inc.": {
+      "Symbol": "FTNT",
+      "Country": "United States",
+      "IPO Year": 2009,
+      "Sector": "Technology",
+      "Industry": "Security Systems Services"
+   },
+   "Fulton Financial Corporation": {
+      "Symbol": "FULT",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Liberty Media Corporation Series A Liberty Formula One": {
+      "Symbol": "FWONA",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Movies/Entertainment"
+   },
+   "Liberty Media Corporation Series C Liberty Formula One": {
+      "Symbol": "FWONK",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Movies/Entertainment"
+   },
+   "Forward Air Corporation": {
+      "Symbol": "FWRD",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Oil Refining/Marketing"
+   },
+   "Frontier Communications Parent Inc.": {
+      "Symbol": "FYBR",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Telecommunications Equipment"
+   },
+   "Golub Capital BDC Inc.": {
+      "Symbol": "GBDC",
+      "Country": "United States",
+      "IPO Year": 2010,
+      "Sector": "Finance",
+      "Industry": "Investment Managers"
+   },
+   "GoodRx Holdings Inc.": {
+      "Symbol": "GDRX",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Technology",
+      "Industry": "Retail: Computer Software & Peripheral Equipment"
+   },
+   "GE HealthCare Technologies Inc. ": {
+      "Symbol": "GEHC",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Gen Digital Inc.": {
+      "Symbol": "GEN",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "GlobalFoundries Inc. Ordinary Shares": {
+      "Symbol": "GFS",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Guardant Health Inc.": {
+      "Symbol": "GH",
+      "Country": "United States",
+      "IPO Year": 2018,
+      "Sector": "Health Care",
+      "Industry": "Medical Specialities"
+   },
+   "Gilead Sciences Inc.": {
+      "Symbol": "GILD",
+      "Country": "United States",
+      "IPO Year": 1992,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Gaming and Leisure Properties Inc.": {
+      "Symbol": "GLPI",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Real Estate",
+      "Industry": "Real Estate Investment Trusts"
+   },
+   "Gentex Corporation": {
+      "Symbol": "GNTX",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Auto Parts:O.E.M."
+   },
+   "Grocery Outlet Holding Corp.": {
+      "Symbol": "GO",
+      "Country": "United States",
+      "IPO Year": 2019,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Specialty Foods"
+   },
+   "Alphabet Inc. Capital Stock": {
+      "Symbol": "GOOG",
+      "Country": "United States",
+      "IPO Year": 2004,
+      "Sector": "Technology",
+      "Industry": "Internet and Information Services"
+   },
+   "Alphabet Inc.": {
+      "Symbol": "GOOGL",
+      "Country": "United States",
+      "IPO Year": 2004,
+      "Sector": "Technology",
+      "Industry": "Internet and Information Services"
+   },
+   "The Goodyear Tire & Rubber Company": {
+      "Symbol": "GT",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Automotive Aftermarket"
+   },
+   "GitLab Inc.": {
+      "Symbol": "GTLB",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Halozyme Therapeutics Inc.": {
+      "Symbol": "HALO",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+   },
+   "Hasbro Inc.": {
+      "Symbol": "HAS",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Recreational Games/Products/Toys"
+   },
+   "Huntington Bancshares Incorporated": {
+      "Symbol": "HBAN",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "HashiCorp Inc.": {
+      "Symbol": "HCP",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Hamilton Lane Incorporated": {
+      "Symbol": "HLNE",
+      "Country": "United States",
+      "IPO Year": 2017,
+      "Sector": "Finance",
+      "Industry": "Investment Managers"
+   },
+   "Hologic Inc.": {
+      "Symbol": "HOLX",
+      "Country": "United States",
+      "IPO Year": 1990,
+      "Sector": "Health Care",
+      "Industry": "Medical Electronics"
+   },
+   "Honeywell International Inc.": {
+      "Symbol": "HON",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Consumer Electronics/Appliances"
+   },
+   "Robinhood Markets Inc.": {
+      "Symbol": "HOOD",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "HighPeak Energy Inc.": {
+      "Symbol": "HPK",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Energy",
+      "Industry": "Oil & Gas Production"
+   },
+   "HealthEquity Inc.": {
+      "Symbol": "HQY",
+      "Country": "United States",
+      "IPO Year": 2014,
+      "Sector": "Health Care",
+      "Industry": "Managed Health Care"
+   },
+   "Harmony Biosciences Holdings Inc.": {
+      "Symbol": "HRMY",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Henry Schein Inc.": {
+      "Symbol": "HSIC",
+      "Country": "United States",
+      "IPO Year": 1995,
+      "Sector": "Health Care",
+      "Industry": "Medical Specialities"
+   },
+   "Host Hotels & Resorts Inc.": {
+      "Symbol": "HST",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Real Estate",
+      "Industry": "Real Estate Investment Trusts"
+   },
+   "Heartland Financial USA Inc.": {
+      "Symbol": "HTLF",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Hertz Global Holdings Inc": {
+      "Symbol": "HTZ",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Rental/Leasing Companies"
+   },
+   "Hub Group Inc.": {
+      "Symbol": "HUBG",
+      "Country": "United States",
+      "IPO Year": 1996,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Oil Refining/Marketing"
+   },
+   "Hancock Whitney Corporation": {
+      "Symbol": "HWC",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "IAC Inc.": {
+      "Symbol": "IAC",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "EDP Services"
+   },
+   "Integra LifeSciences Holdings Corporation": {
+      "Symbol": "IART",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": "Medical/Dental Instruments"
+   },
+   "Interactive Brokers Group Inc.": {
+      "Symbol": "IBKR",
+      "Country": "United States",
+      "IPO Year": 2019,
+      "Sector": "Finance",
+      "Industry": "Investment Bankers/Brokers/Service"
+   },
+   "International Bancshares Corporation": {
+      "Symbol": "IBOC",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Independent Bank Group Inc": {
+      "Symbol": "IBTX",
+      "Country": "United States",
+      "IPO Year": 2013,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "ICU Medical Inc.": {
+      "Symbol": "ICUI",
+      "Country": "United States",
+      "IPO Year": 1992,
+      "Sector": "Health Care",
+      "Industry": "Medical/Dental Instruments"
+   },
+   "InterDigital Inc.": {
+      "Symbol": "IDCC",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Telecommunications",
+      "Industry": "Telecommunications Equipment"
+   },
+   "IDEXX Laboratories Inc.": {
+      "Symbol": "IDXX",
+      "Country": "United States",
+      "IPO Year": 1991,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances"
+   },
+   "Icahn Enterprises L.P.": {
+      "Symbol": "IEP",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Consumer Electronics/Appliances"
+   },
+   "Illumina Inc.": {
+      "Symbol": "ILMN",
+      "Country": "United States",
+      "IPO Year": 2000,
+      "Sector": "Health Care",
+      "Industry": "Medical Specialities"
+   },
+   "Immunocore Holdings plc American Depositary Shares": {
+      "Symbol": "IMCR",
+      "Country": "United Kingdom",
+      "IPO Year": 2021,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+   },
+   "Incyte Corp.": {
+      "Symbol": "INCY",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Commercial Physical & Biological Resarch"
+   },
+   "Independent Bank Corp.": {
+      "Symbol": "INDB",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Insmed Incorporated": {
+      "Symbol": "INSM",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Intapp Inc.": {
+      "Symbol": "INTA",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Intel Corporation": {
+      "Symbol": "INTC",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Intuit Inc.": {
+      "Symbol": "INTU",
+      "Country": "United States",
+      "IPO Year": 1993,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Ionis Pharmaceuticals Inc.": {
+      "Symbol": "IONS",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Innospec Inc.": {
+      "Symbol": "IOSP",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Industrial Specialties"
+   },
+   "Inter Parfums Inc.": {
+      "Symbol": "IPAR",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Package Goods/Cosmetics"
+   },
+   "IPG Photonics Corporation": {
+      "Symbol": "IPGP",
+      "Country": "United States",
+      "IPO Year": 2006,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Iridium Communications Inc": {
+      "Symbol": "IRDM",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Telecommunications Equipment"
+   },
+   "iRhythm Technologies Inc.": {
+      "Symbol": "IRTC",
+      "Country": "United States",
+      "IPO Year": 2016,
+      "Sector": "Health Care",
+      "Industry": "Medical/Dental Instruments"
+   },
+   "IVERIC bio Inc.": {
+      "Symbol": "ISEE",
+      "Country": "United States",
+      "IPO Year": 2013,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Intuitive Surgical Inc.": {
+      "Symbol": "ISRG",
+      "Country": "United States",
+      "IPO Year": 2000,
+      "Sector": "Health Care",
+      "Industry": "Medical/Dental Instruments"
+   },
+   "Intra-Cellular Therapies Inc.": {
+      "Symbol": "ITCI",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Itron Inc.": {
+      "Symbol": "ITRI",
+      "Country": "United States",
+      "IPO Year": 1993,
+      "Sector": "Industrials",
+      "Industry": "Electrical Products"
+   },
+   "Jamf Holding Corp.": {
+      "Symbol": "JAMF",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "J.B. Hunt Transport Services Inc.": {
+      "Symbol": "JBHT",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Trucking Freight/Courier Services"
+   },
+   "JetBlue Airways Corporation": {
+      "Symbol": "JBLU",
+      "Country": "United States",
+      "IPO Year": 2002,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Air Freight/Delivery Services"
+   },
+   "J & J Snack Foods Corp.": {
+      "Symbol": "JJSF",
+      "Country": "United States",
+      "IPO Year": 1986,
+      "Sector": "Consumer Staples",
+      "Industry": "Specialty Foods"
+   },
+   "Jack Henry & Associates Inc.": {
+      "Symbol": "JKHY",
+      "Country": "United States",
+      "IPO Year": 1985,
+      "Sector": "Technology",
+      "Industry": "Retail: Computer Software & Peripheral Equipment"
+   },
+   "Keurig Dr Pepper Inc.": {
+      "Symbol": "KDP",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Staples",
+      "Industry": "Beverages (Production/Distribution)"
+   },
+   "The Kraft Heinz Company": {
+      "Symbol": "KHC",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Staples",
+      "Industry": "Farming/Seeds/Milling"
+   },
+   "KLA Corporation": {
+      "Symbol": "KLAC",
+      "Country": "United States",
+      "IPO Year": 1980,
+      "Sector": "Technology",
+      "Industry": "Electronic Components"
+   },
+   "Karuna Therapeutics Inc.": {
+      "Symbol": "KRTX",
+      "Country": "United States",
+      "IPO Year": 2019,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Lamar Advertising Company": {
+      "Symbol": "LAMR",
+      "Country": "United States",
+      "IPO Year": 1996,
+      "Sector": "Real Estate",
+      "Industry": "Real Estate Investment Trusts"
+   },
+   "Lancaster Colony Corporation": {
+      "Symbol": "LANC",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Staples",
+      "Industry": "Packaged Foods"
+   },
+   "Luminar Technologies Inc. ": {
+      "Symbol": "LAZR",
+      "Country": "United States",
+      "IPO Year": 2019,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Auto Parts:O.E.M."
+   },
+   "Liberty Broadband Corporation": {
+      "Symbol": "LBRDA",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Telecommunications Equipment"
+   },
+   "Liberty Broadband Corporation": {
+      "Symbol": "LBRDK",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Telecommunications Equipment"
+   },
+   "Liberty Global plc Ordinary Shares": {
+      "Symbol": "LBTYA",
+      "Country": "United Kingdom",
+      "IPO Year": null,
+      "Sector": "Telecommunications",
+      "Industry": "Cable & Other Pay Television Services"
+   },
+   "Liberty Global plc Class B Ordinary Shares": {
+      "Symbol": "LBTYB",
+      "Country": "United Kingdom",
+      "IPO Year": null,
+      "Sector": "Telecommunications",
+      "Industry": "Cable & Other Pay Television Services"
+   },
+   "Liberty Global plc Ordinary Shares": {
+      "Symbol": "LBTYK",
+      "Country": "United Kingdom",
+      "IPO Year": null,
+      "Sector": "Telecommunications",
+      "Industry": "Cable & Other Pay Television Services"
+   },
+   "Lucid Group Inc.": {
+      "Symbol": "LCID",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Auto Manufacturing"
+   },
+   "Lincoln Electric Holdings Inc. Common Shares": {
+      "Symbol": "LECO",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Industrial Machinery/Components"
+   },
+   "Legend Biotech Corporation American Depositary Shares": {
+      "Symbol": "LEGN",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Leslie's Inc.": {
+      "Symbol": "LESL",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Miscellaneous",
+      "Industry": "Diversified Commercial Services"
+   },
+   "Littelfuse Inc.": {
+      "Symbol": "LFUS",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Electronic Components"
+   },
+   "LGI Homes Inc.": {
+      "Symbol": "LGIH",
+      "Country": "United States",
+      "IPO Year": 2013,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Homebuilding"
+   },
+   "LHC Group": {
+      "Symbol": "LHCG",
+      "Country": "United States",
+      "IPO Year": 2005,
+      "Sector": "Health Care",
+      "Industry": "Medical/Nursing Services"
+   },
+   "MSP Recovery Inc.": {
+      "Symbol": "LIFW",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Lumentum Holdings Inc.": {
+      "Symbol": "LITE",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Computer peripheral equipment"
+   },
+   "LivaNova PLC Ordinary Shares": {
+      "Symbol": "LIVN",
+      "Country": "United Kingdom",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
+   },
+   "LKQ Corporation": {
+      "Symbol": "LKQ",
+      "Country": "United States",
+      "IPO Year": 2003,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Automotive Aftermarket"
+   },
+   "Alliant Energy Corporation": {
+      "Symbol": "LNT",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Utilities",
+      "Industry": "Power Generation"
+   },
+   "Lantheus Holdings Inc.": {
+      "Symbol": "LNTH",
+      "Country": "United States",
+      "IPO Year": 2015,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Light & Wonder Inc.": {
+      "Symbol": "LNW",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Movies/Entertainment"
+   },
+   "Logitech International S.A. Ordinary Shares": {
+      "Symbol": "LOGI",
+      "Country": "United States",
+      "IPO Year": 1997,
+      "Sector": "Technology",
+      "Industry": "Computer peripheral equipment"
+   },
+   "Grand Canyon Education Inc.": {
+      "Symbol": "LOPE",
+      "Country": "United States",
+      "IPO Year": 2008,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Service to the Health Industry"
+   },
+   "LPL Financial Holdings Inc.": {
+      "Symbol": "LPLA",
+      "Country": "United States",
+      "IPO Year": 2010,
+      "Sector": "Finance",
+      "Industry": "Investment Bankers/Brokers/Service"
+   },
+   "Lam Research Corporation": {
+      "Symbol": "LRCX",
+      "Country": "United States",
+      "IPO Year": 1984,
+      "Sector": "Technology",
+      "Industry": "Industrial Machinery/Components"
+   },
+   "Lattice Semiconductor Corporation": {
+      "Symbol": "LSCC",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Landstar System Inc.": {
+      "Symbol": "LSTR",
+      "Country": "United States",
+      "IPO Year": 1993,
+      "Sector": "Industrials",
+      "Industry": "Trucking Freight/Courier Services"
+   },
+   "Liberty Media Corporation Series A Liberty SiriusXM": {
+      "Symbol": "LSXMA",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Broadcasting"
+   },
+   "Liberty Media Corporation Series B Liberty SiriusXM": {
+      "Symbol": "LSXMB",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Broadcasting"
+   },
+   "Liberty Media Corporation Series C Liberty SiriusXM": {
+      "Symbol": "LSXMK",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Broadcasting"
+   },
+   "Lyft Inc.": {
+      "Symbol": "LYFT",
+      "Country": "United States",
+      "IPO Year": 2019,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Manhattan Associates Inc.": {
+      "Symbol": "MANH",
+      "Country": "United States",
+      "IPO Year": 1998,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Marriott International": {
+      "Symbol": "MAR",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Hotels/Resorts"
+   },
+   "Masimo Corporation": {
+      "Symbol": "MASI",
+      "Country": "United States",
+      "IPO Year": 2007,
+      "Sector": "Health Care",
+      "Industry": "Medical/Dental Instruments"
+   },
+   "Mattel Inc.": {
+      "Symbol": "MAT",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Recreational Games/Products/Toys"
+   },
+   "Microchip Technology Incorporated": {
+      "Symbol": "MCHP",
+      "Country": "United States",
+      "IPO Year": 1993,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "MongoDB Inc.": {
+      "Symbol": "MDB",
+      "Country": "United States",
+      "IPO Year": 2017,
+      "Sector": "Technology",
+      "Industry": "Retail: Computer Software & Peripheral Equipment"
+   },
+   "Madrigal Pharmaceuticals Inc.": {
+      "Symbol": "MDGL",
+      "Country": "United States",
+      "IPO Year": 2007,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Mondelez International Inc.": {
+      "Symbol": "MDLZ",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Staples",
+      "Industry": "Meat/Poultry/Fish"
+   },
+   "Medpace Holdings Inc.": {
+      "Symbol": "MEDP",
+      "Country": "United States",
+      "IPO Year": 2016,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Commercial Physical & Biological Resarch"
+   },
+   "Meta Platforms Inc.": {
+      "Symbol": "META",
+      "Country": "United States",
+      "IPO Year": 2012,
+      "Sector": "Technology",
+      "Industry": "Internet and Information Services"
+   },
+   "MGE Energy Inc": {
+      "Symbol": "MGEE",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Utilities",
+      "Industry": "Power Generation"
+   },
+   "MGP Ingredients Inc.": {
+      "Symbol": "MGPI",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Staples",
+      "Industry": "Beverages (Production/Distribution)"
+   },
+   "McGrath RentCorp": {
+      "Symbol": "MGRC",
+      "Country": "United States",
+      "IPO Year": 1984,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Diversified Commercial Services"
+   },
+   "Middleby Corporation (The)": {
+      "Symbol": "MIDD",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Diversified Manufacture"
+   },
+   "MKS Instruments Inc.": {
+      "Symbol": "MKSI",
+      "Country": "United States",
+      "IPO Year": 1999,
+      "Sector": "Industrials",
+      "Industry": "Industrial Machinery/Components"
+   },
+   "MarketAxess Holdings Inc.": {
+      "Symbol": "MKTX",
+      "Country": "United States",
+      "IPO Year": 2004,
+      "Sector": "Finance",
+      "Industry": "Investment Bankers/Brokers/Service"
+   },
+   "Merit Medical Systems Inc.": {
+      "Symbol": "MMSI",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": "Medical/Dental Instruments"
+   },
+   "Monster Beverage Corporation": {
+      "Symbol": "MNST",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Staples",
+      "Industry": "Beverages (Production/Distribution)"
+   },
+   "Morningstar Inc.": {
+      "Symbol": "MORN",
+      "Country": "United States",
+      "IPO Year": 2005,
+      "Sector": "Finance",
+      "Industry": "Advertising"
+   },
+   "Monolithic Power Systems Inc.": {
+      "Symbol": "MPWR",
+      "Country": "United States",
+      "IPO Year": 2004,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Marqeta Inc.": {
+      "Symbol": "MQ",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Mercury Systems Inc": {
+      "Symbol": "MRCY",
+      "Country": "United States",
+      "IPO Year": 1998,
+      "Sector": "",
+      "Industry": ""
+   },
+   "Moderna Inc.": {
+      "Symbol": "MRNA",
+      "Country": "United States",
+      "IPO Year": 2018,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+   },
+   "Mirati Therapeutics Inc.": {
+      "Symbol": "MRTX",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Marvell Technology Inc.": {
+      "Symbol": "MRVL",
+      "Country": "United States",
+      "IPO Year": 2000,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Microsoft Corporation": {
+      "Symbol": "MSFT",
+      "Country": "United States",
+      "IPO Year": 1986,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "MicroStrategy Incorporated": {
+      "Symbol": "MSTR",
+      "Country": "United States",
+      "IPO Year": 1998,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Match Group Inc.": {
+      "Symbol": "MTCH",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Programming Data Processing"
+   },
+   "MACOM Technology Solutions Holdings Inc.": {
+      "Symbol": "MTSI",
+      "Country": "United States",
+      "IPO Year": 2012,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Micron Technology Inc.": {
+      "Symbol": "MU",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "MaxLinear Inc.": {
+      "Symbol": "MXL",
+      "Country": "United States",
+      "IPO Year": 2010,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Inari Medical Inc.": {
+      "Symbol": "NARI",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
+   },
+   "National Instruments Corporation": {
+      "Symbol": "NATI",
+      "Country": "United States",
+      "IPO Year": 1995,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Navient Corporation": {
+      "Symbol": "NAVI",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Finance: Consumer Services"
+   },
+   "Neurocrine Biosciences Inc.": {
+      "Symbol": "NBIX",
+      "Country": "United States",
+      "IPO Year": 1996,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+   },
+   "nCino Inc.": {
+      "Symbol": "NCNO",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Nasdaq Inc.": {
+      "Symbol": "NDAQ",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Investment Bankers/Brokers/Service"
+   },
+   "Nordson Corporation": {
+      "Symbol": "NDSN",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Industrial Machinery/Components"
+   },
+   "Neogen Corporation": {
+      "Symbol": "NEOG",
+      "Country": "United States",
+      "IPO Year": 1989,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances"
+   },
+   "New Fortress Energy Inc.": {
+      "Symbol": "NFE",
+      "Country": "United States",
+      "IPO Year": 2019,
+      "Sector": "Utilities",
+      "Industry": "Oil/Gas Transmission"
+   },
+   "Netflix Inc.": {
+      "Symbol": "NFLX",
+      "Country": "United States",
+      "IPO Year": 2002,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Consumer Electronics/Video Chains"
+   },
+   "Novanta Inc.": {
+      "Symbol": "NOVT",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "",
+      "Industry": ""
+   },
+   "Insight Enterprises Inc.": {
+      "Symbol": "NSIT",
+      "Country": "United States",
+      "IPO Year": 1995,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "NetApp Inc.": {
+      "Symbol": "NTAP",
+      "Country": "United States",
+      "IPO Year": 1995,
+      "Sector": "Technology",
+      "Industry": "Electronic Components"
+   },
+   "NetScout Systems Inc.": {
+      "Symbol": "NTCT",
+      "Country": "United States",
+      "IPO Year": 1999,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Intellia Therapeutics Inc.": {
+      "Symbol": "NTLA",
+      "Country": "United States",
+      "IPO Year": 2016,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances"
+   },
+   "Nutanix Inc.": {
+      "Symbol": "NTNX",
+      "Country": "United States",
+      "IPO Year": 2016,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Natera Inc.": {
+      "Symbol": "NTRA",
+      "Country": "United States",
+      "IPO Year": 2015,
+      "Sector": "Health Care",
+      "Industry": "Medical Specialities"
+   },
+   "Northern Trust Corporation": {
+      "Symbol": "NTRS",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Trusts Except Educational Religious and Charitable"
+   },
+   "NuVasive Inc.": {
+      "Symbol": "NUVA",
+      "Country": "United States",
+      "IPO Year": 2004,
+      "Sector": "Health Care",
+      "Industry": "Medical/Dental Instruments"
+   },
+   "NVIDIA Corporation": {
+      "Symbol": "NVDA",
+      "Country": "United States",
+      "IPO Year": 1999,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "NorthWestern Corporation": {
+      "Symbol": "NWE",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Utilities",
+      "Industry": "Power Generation"
+   },
+   "Newell Brands Inc.": {
+      "Symbol": "NWL",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Plastic Products"
+   },
+   "News Corporation Class B": {
+      "Symbol": "NWS",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Movies/Entertainment"
+   },
+   "News Corporation": {
+      "Symbol": "NWSA",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Movies/Entertainment"
+   },
+   "Nexstar Media Group Inc.": {
+      "Symbol": "NXST",
+      "Country": "United States",
+      "IPO Year": 2003,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Movies/Entertainment"
+   },
+   "Old Dominion Freight Line Inc.": {
+      "Symbol": "ODFL",
+      "Country": "United States",
+      "IPO Year": 1991,
+      "Sector": "Industrials",
+      "Industry": "Trucking Freight/Courier Services"
+   },
+   "The ODP Corporation": {
+      "Symbol": "ODP",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Miscellaneous",
+      "Industry": "Diversified Commercial Services"
+   },
+   "Okta Inc.": {
+      "Symbol": "OKTA",
+      "Country": "United States",
+      "IPO Year": 2017,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Universal Display Corporation": {
+      "Symbol": "OLED",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Industrial Machinery/Components"
+   },
+   "Ollie's Bargain Outlet Holdings Inc.": {
+      "Symbol": "OLLI",
+      "Country": "United States",
+      "IPO Year": 2015,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Department/Specialty Retail Stores"
+   },
+   "Olaplex Holdings Inc.": {
+      "Symbol": "OLPX",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Miscellaneous",
+      "Industry": "Diversified Commercial Services"
+   },
+   "Omnicell Inc. ($0.001 par value)": {
+      "Symbol": "OMCL",
+      "Country": "United States",
+      "IPO Year": 2001,
+      "Sector": "Health Care",
+      "Industry": "Managed Health Care"
+   },
+   "ON Semiconductor Corporation": {
+      "Symbol": "ON",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Old National Bancorp": {
+      "Symbol": "ONB",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "1Life Healthcare Inc.": {
+      "Symbol": "ONEM",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Health Care",
+      "Industry": "Medical/Nursing Services"
+   },
+   "Option Care Health Inc.": {
+      "Symbol": "OPCH",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": "Medical/Nursing Services"
+   },
+   "O'Reilly Automotive Inc.": {
+      "Symbol": "ORLY",
+      "Country": "United States",
+      "IPO Year": 1993,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Auto & Home Supply Stores"
+   },
+   "Otter Tail Corporation": {
+      "Symbol": "OTTR",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Utilities",
+      "Industry": "Electric Utilities: Central"
+   },
+   "Bank OZK": {
+      "Symbol": "OZK",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Plains All American Pipeline L.P. Common Units representing Limited Partner Interests": {
+      "Symbol": "PAA",
+      "Country": "United States",
+      "IPO Year": 1998,
+      "Sector": "Energy",
+      "Industry": "Oil & Gas Production"
+   },
+   "Pacific Biosciences of California Inc.": {
+      "Symbol": "PACB",
+      "Country": "United States",
+      "IPO Year": 2010,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
+   },
+   "PacWest Bancorp": {
+      "Symbol": "PACW",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Plains GP Holdings L.P. Units representing Limited Partner Interests": {
+      "Symbol": "PAGP",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Energy",
+      "Industry": "Oil & Gas Production"
+   },
+   "Palo Alto Networks Inc.": {
+      "Symbol": "PANW",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Paramount Global Class B": {
+      "Symbol": "PARA",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Movies/Entertainment"
+   },
+   "Paramount Global": {
+      "Symbol": "PARAA",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Movies/Entertainment"
+   },
+   "Paychex Inc.": {
+      "Symbol": "PAYX",
+      "Country": "United States",
+      "IPO Year": 1983,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Business Services"
+   },
+   "PACCAR Inc.": {
+      "Symbol": "PCAR",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Construction/Ag Equipment/Trucks"
+   },
+   "PotlatchDeltic Corporation": {
+      "Symbol": "PCH",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Real Estate",
+      "Industry": "Real Estate Investment Trusts"
+   },
+   "Paylocity Holding Corporation": {
+      "Symbol": "PCTY",
+      "Country": "United States",
+      "IPO Year": 2014,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Vaxcyte Inc.": {
+      "Symbol": "PCVX",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "PDC Energy Inc. (Delaware)": {
+      "Symbol": "PDCE",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Energy",
+      "Industry": "Oil & Gas Production"
+   },
+   "Patterson Companies Inc.": {
+      "Symbol": "PDCO",
+      "Country": "United States",
+      "IPO Year": 1992,
+      "Sector": "Health Care",
+      "Industry": "Medical Specialities"
+   },
+   "Phillips Edison & Company Inc.": {
+      "Symbol": "PECO",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Real Estate",
+      "Industry": "Real Estate Investment Trusts"
+   },
+   "Pegasystems Inc.": {
+      "Symbol": "PEGA",
+      "Country": "United States",
+      "IPO Year": 1996,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "PENN Entertainment Inc.": {
+      "Symbol": "PENN",
+      "Country": "United States",
+      "IPO Year": 1994,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Movies/Entertainment"
+   },
+   "PepsiCo Inc.": {
+      "Symbol": "PEP",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Staples",
+      "Industry": "Beverages (Production/Distribution)"
+   },
+   "Principal Financial Group Inc": {
+      "Symbol": "PFG",
+      "Country": "United States",
+      "IPO Year": 2001,
+      "Sector": "Finance",
+      "Industry": "Investment Managers"
+   },
+   "Progyny Inc.": {
+      "Symbol": "PGNY",
+      "Country": "United States",
+      "IPO Year": 2019,
+      "Sector": "Health Care",
+      "Industry": "Managed Health Care"
+   },
+   "Impinj Inc.": {
+      "Symbol": "PI",
+      "Country": "United States",
+      "IPO Year": 2016,
+      "Sector": "Utilities",
+      "Industry": "Telecommunications Equipment"
+   },
+   "Premier Inc.": {
+      "Symbol": "PINC",
+      "Country": "United States",
+      "IPO Year": 2013,
+      "Sector": "Health Care",
+      "Industry": "Managed Health Care"
+   },
+   "Plug Power Inc.": {
+      "Symbol": "PLUG",
+      "Country": "United States",
+      "IPO Year": 1999,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Electrical Products"
+   },
+   "Plexus Corp.": {
+      "Symbol": "PLXS",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Electrical Products"
+   },
+   "Pinnacle Financial Partners Inc.": {
+      "Symbol": "PNFP",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Insulet Corporation": {
+      "Symbol": "PODD",
+      "Country": "United States",
+      "IPO Year": 2007,
+      "Sector": "Health Care",
+      "Industry": "Medical/Dental Instruments"
+   },
+   "Pool Corporation": {
+      "Symbol": "POOL",
+      "Country": "United States",
+      "IPO Year": 1995,
+      "Sector": "Industrials",
+      "Industry": "Industrial Machinery/Components"
+   },
+   "Power Integrations Inc.": {
+      "Symbol": "POWI",
+      "Country": "United States",
+      "IPO Year": 1997,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Pacific Premier Bancorp Inc": {
+      "Symbol": "PPBI",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Pilgrim's Pride Corporation": {
+      "Symbol": "PPC",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Staples",
+      "Industry": "Meat/Poultry/Fish"
+   },
+   "Perficient Inc.": {
+      "Symbol": "PRFT",
+      "Country": "United States",
+      "IPO Year": 1999,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Progress Software Corporation (DE)": {
+      "Symbol": "PRGS",
+      "Country": "United States",
+      "IPO Year": 1991,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "ProKidney Corp. Ordinary Shares": {
+      "Symbol": "PROK",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+   },
+   "Prothena Corporation plc Ordinary Shares": {
+      "Symbol": "PRTA",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Privia Health Group Inc.": {
+      "Symbol": "PRVA",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Technology",
+      "Industry": "Retail: Computer Software & Peripheral Equipment"
+   },
+   "Prospect Capital Corporation": {
+      "Symbol": "PSEC",
+      "Country": "United States",
+      "IPO Year": 2004,
+      "Sector": "Finance",
+      "Industry": "Finance/Investors Services"
+   },
+   "PriceSmart Inc.": {
+      "Symbol": "PSMT",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Department/Specialty Retail Stores"
+   },
+   "PTC Inc.": {
+      "Symbol": "PTC",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "PTC Therapeutics Inc.": {
+      "Symbol": "PTCT",
+      "Country": "United States",
+      "IPO Year": 2013,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Patterson-UTI Energy Inc.": {
+      "Symbol": "PTEN",
+      "Country": "United States",
+      "IPO Year": 1993,
+      "Sector": "Energy",
+      "Industry": "Oil & Gas Production"
+   },
+   "Peloton Interactive Inc.": {
+      "Symbol": "PTON",
+      "Country": "United States",
+      "IPO Year": 2019,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Other Consumer Services"
+   },
+   "Paycor HCM Inc.": {
+      "Symbol": "PYCR",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "PayPal Holdings Inc.": {
+      "Symbol": "PYPL",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Business Services"
+   },
+   "Papa John's International Inc.": {
+      "Symbol": "PZZA",
+      "Country": "United States",
+      "IPO Year": 1993,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Restaurants"
+   },
+   "QUALCOMM Incorporated": {
+      "Symbol": "QCOM",
+      "Country": "United States",
+      "IPO Year": 1991,
+      "Sector": "Technology",
+      "Industry": "Computer peripheral equipment"
+   },
+   "QuidelOrtho Corporation": {
+      "Symbol": "QDEL",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": "Medical/Dental Instruments"
+   },
+   "Qualys Inc.": {
+      "Symbol": "QLYS",
+      "Country": "United States",
+      "IPO Year": 2012,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Qurate Retail Inc. Series B ": {
+      "Symbol": "QRTEB",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Catalog/Specialty Distribution"
+   },
+   "Qorvo Inc.": {
+      "Symbol": "QRVO",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Industrial Machinery/Components"
+   },
+   "Ultragenyx Pharmaceutical Inc.": {
+      "Symbol": "RARE",
+      "Country": "United States",
+      "IPO Year": 2014,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "R1 RCM Inc.": {
+      "Symbol": "RCM",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Other Consumer Services"
+   },
+   "Regency Centers Corporation": {
+      "Symbol": "REG",
+      "Country": "United States",
+      "IPO Year": 1993,
+      "Sector": "Real Estate",
+      "Industry": "Real Estate Investment Trusts"
+   },
+   "Regeneron Pharmaceuticals Inc.": {
+      "Symbol": "REGN",
+      "Country": "United States",
+      "IPO Year": 1991,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Reynolds Consumer Products Inc.": {
+      "Symbol": "REYN",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Industrials",
+      "Industry": "Office Equipment/Supplies/Services"
+   },
+   "Repligen Corporation": {
+      "Symbol": "RGEN",
+      "Country": "United States",
+      "IPO Year": 1986,
+      "Sector": "Health Care",
+      "Industry": "Medical/Dental Instruments"
+   },
+   "Royal Gold Inc.": {
+      "Symbol": "RGLD",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Consumer Electronics/Appliances"
+   },
+   "Rivian Automotive Inc.": {
+      "Symbol": "RIVN",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Auto Manufacturing"
+   },
+   "Rocket Lab USA Inc.": {
+      "Symbol": "RKLB",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Industrials",
+      "Industry": "Aerospace"
+   },
+   "Relay Therapeutics Inc.": {
+      "Symbol": "RLAY",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Rambus Inc.": {
+      "Symbol": "RMBS",
+      "Country": "United States",
+      "IPO Year": 1997,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Renasant Corporation": {
+      "Symbol": "RNST",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "ReNew Energy Global plc Ordinary Shares": {
+      "Symbol": "RNW",
+      "Country": "United Kingdom",
+      "IPO Year": null,
+      "Sector": "Utilities",
+      "Industry": "Electric Utilities: Central"
+   },
+   "Roivant Sciences Ltd. Common Shares": {
+      "Symbol": "ROIV",
+      "Country": "United Kingdom",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Roku Inc.": {
+      "Symbol": "ROKU",
+      "Country": "United States",
+      "IPO Year": 2017,
+      "Sector": "Telecommunications",
+      "Industry": "Cable & Other Pay Television Services"
+   },
+   "Ross Stores Inc.": {
+      "Symbol": "ROST",
+      "Country": "United States",
+      "IPO Year": 1985,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Clothing/Shoe/Accessory Stores"
+   },
+   "Rapid7 Inc.": {
+      "Symbol": "RPD",
+      "Country": "United States",
+      "IPO Year": 2015,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Royalty Pharma plc Ordinary Shares ": {
+      "Symbol": "RPRX",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Red Rock Resorts Inc.": {
+      "Symbol": "RRR",
+      "Country": "United States",
+      "IPO Year": 2016,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Recreational Games/Products/Toys"
+   },
+   "Rumble Inc.": {
+      "Symbol": "RUM",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Sunrun Inc.": {
+      "Symbol": "RUN",
+      "Country": "United States",
+      "IPO Year": 2015,
+      "Sector": "Industrials",
+      "Industry": "Building Products"
+   },
+   "Rush Enterprises Inc. Cl A": {
+      "Symbol": "RUSHA",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Other Specialty Stores"
+   },
+   "Rush Enterprises Inc. Class B": {
+      "Symbol": "RUSHB",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Other Specialty Stores"
+   },
+   "Revolution Medicines Inc.": {
+      "Symbol": "RVMD",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Health Care",
+      "Industry": " Medicinal Chemicals and Botanical Products "
+   },
+   "Revance Therapeutics Inc.": {
+      "Symbol": "RVNC",
+      "Country": "United States",
+      "IPO Year": 2014,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Prometheus Biosciences Inc.": {
+      "Symbol": "RXDX",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Sage Therapeutics Inc.": {
+      "Symbol": "SAGE",
+      "Country": "United States",
+      "IPO Year": 2014,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Saia Inc.": {
+      "Symbol": "SAIA",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Trucking Freight/Courier Services"
+   },
+   "Sanmina Corporation": {
+      "Symbol": "SANM",
+      "Country": "United States",
+      "IPO Year": 1993,
+      "Sector": "Technology",
+      "Industry": "Electrical Products"
+   },
+   "SBA Communications Corporation": {
+      "Symbol": "SBAC",
+      "Country": "United States",
+      "IPO Year": 1999,
+      "Sector": "Real Estate",
+      "Industry": "Real Estate Investment Trusts"
+   },
+   "Seacoast Banking Corporation of Florida": {
+      "Symbol": "SBCF",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Signature Bank": {
+      "Symbol": "SBNY",
+      "Country": "United States",
+      "IPO Year": 2004,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Sabra Health Care REIT Inc.": {
+      "Symbol": "SBRA",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Real Estate",
+      "Industry": "Real Estate Investment Trusts"
+   },
+   "Starbucks Corporation": {
+      "Symbol": "SBUX",
+      "Country": "United States",
+      "IPO Year": 1992,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Beverages - Non-Alcoholic"
+   },
+   "SEI Investments Company": {
+      "Symbol": "SEIC",
+      "Country": "United States",
+      "IPO Year": 1981,
+      "Sector": "Finance",
+      "Industry": "Investment Bankers/Brokers/Service"
+   },
+   "Sprouts Farmers Market Inc.": {
+      "Symbol": "SFM",
+      "Country": "United States",
+      "IPO Year": 2013,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Specialty Foods"
+   },
+   "Simmons First National Corporation": {
+      "Symbol": "SFNC",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Seagen Inc.": {
+      "Symbol": "SGEN",
+      "Country": "United States",
+      "IPO Year": 2001,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+   },
+   "Surgery Partners Inc.": {
+      "Symbol": "SGRY",
+      "Country": "United States",
+      "IPO Year": 2015,
+      "Sector": "Health Care",
+      "Industry": "Managed Health Care"
+   },
+   "Sotera Health Company": {
+      "Symbol": "SHC",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Health Care",
+      "Industry": "Medical Specialities"
+   },
+   "Shoals Technologies Group Inc.": {
+      "Symbol": "SHLS",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Steven Madden Ltd.": {
+      "Symbol": "SHOO",
+      "Country": "United States",
+      "IPO Year": 1993,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Shoe Manufacturing"
+   },
+   "Selective Insurance Group Inc.": {
+      "Symbol": "SIGI",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Property-Casualty Insurers"
+   },
+   "Sirius XM Holdings Inc.": {
+      "Symbol": "SIRI",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Movies/Entertainment"
+   },
+   "SiTime Corporation": {
+      "Symbol": "SITM",
+      "Country": "United States",
+      "IPO Year": 2019,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "SVB Financial Group": {
+      "Symbol": "SIVB",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Silicon Laboratories Inc.": {
+      "Symbol": "SLAB",
+      "Country": "United States",
+      "IPO Year": 2000,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "SLM Corporation": {
+      "Symbol": "SLM",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Finance: Consumer Services"
+   },
+   "Super Micro Computer Inc.": {
+      "Symbol": "SMCI",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Technology",
+      "Industry": "Computer Manufacturing"
+   },
+   "The Simply Good Foods Company": {
+      "Symbol": "SMPL",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Staples",
+      "Industry": "Packaged Foods"
+   },
+   "StoneX Group Inc.": {
+      "Symbol": "SNEX",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Investment Bankers/Brokers/Service"
+   },
+   "Synopsys Inc.": {
+      "Symbol": "SNPS",
+      "Country": "United States",
+      "IPO Year": 1992,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "SoFi Technologies Inc.  ": {
+      "Symbol": "SOFI",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Diversified Financial Services"
+   },
+   "Sonos Inc.": {
+      "Symbol": "SONO",
+      "Country": "United States",
+      "IPO Year": 2018,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Consumer Electronics/Video Chains"
+   },
+   "Splunk Inc.": {
+      "Symbol": "SPLK",
+      "Country": "United States",
+      "IPO Year": 2012,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "SPS Commerce Inc.": {
+      "Symbol": "SPSC",
+      "Country": "United States",
+      "IPO Year": 2010,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Sprout Social Inc": {
+      "Symbol": "SPT",
+      "Country": "United States",
+      "IPO Year": 2019,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "SunPower Corporation": {
+      "Symbol": "SPWR",
+      "Country": "United States",
+      "IPO Year": 2005,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Stericycle Inc.": {
+      "Symbol": "SRCL",
+      "Country": "United States",
+      "IPO Year": 1996,
+      "Sector": "Utilities",
+      "Industry": "Environmental Services"
+   },
+   "Sarepta Therapeutics Inc. (DE)": {
+      "Symbol": "SRPT",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "SouthState Corporation": {
+      "Symbol": "SSB",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "SS&C Technologies Holdings Inc.": {
+      "Symbol": "SSNC",
+      "Country": "United States",
+      "IPO Year": 2010,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "STAAR Surgical Company": {
+      "Symbol": "STAA",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": "Ophthalmic Goods"
+   },
+   "Steel Dynamics Inc.": {
+      "Symbol": "STLD",
+      "Country": "United States",
+      "IPO Year": 1996,
+      "Sector": "Industrials",
+      "Industry": "Steel/Iron Ore"
+   },
+   "Strategic Education Inc.": {
+      "Symbol": "STRA",
+      "Country": "United States",
+      "IPO Year": 1996,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Service to the Health Industry"
+   },
+   "Supernus Pharmaceuticals Inc.": {
+      "Symbol": "SUPN",
+      "Country": "United States",
+      "IPO Year": 2012,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "ShockWave Medical Inc.": {
+      "Symbol": "SWAV",
+      "Country": "United States",
+      "IPO Year": 2019,
+      "Sector": "Health Care",
+      "Industry": "Medical/Dental Instruments"
+   },
+   "Skyworks Solutions Inc.": {
+      "Symbol": "SWKS",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Synaptics Incorporated $0.001 Par Value": {
+      "Symbol": "SYNA",
+      "Country": "United States",
+      "IPO Year": 2002,
+      "Sector": "Technology",
+      "Industry": "Computer peripheral equipment"
+   },
+   "Syneos Health Inc.": {
+      "Symbol": "SYNH",
+      "Country": "United States",
+      "IPO Year": 2014,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Commercial Physical & Biological Resarch"
+   },
+   "Texas Capital Bancshares Inc.": {
+      "Symbol": "TCBI",
+      "Country": "United States",
+      "IPO Year": 2003,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Bio-Techne Corp": {
+      "Symbol": "TECH",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+   },
+   "Tenable Holdings Inc.": {
+      "Symbol": "TENB",
+      "Country": "United States",
+      "IPO Year": 2018,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Teradyne Inc.": {
+      "Symbol": "TER",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Electrical Products"
+   },
+   "TFS Financial Corporation": {
+      "Symbol": "TFSL",
+      "Country": "United States",
+      "IPO Year": 2007,
+      "Sector": "Finance",
+      "Industry": "Savings Institutions"
+   },
+   "TG Therapeutics Inc.": {
+      "Symbol": "TGTX",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Gentherm Inc": {
+      "Symbol": "THRM",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Auto Parts:O.E.M."
+   },
+   "TransMedics Group Inc.": {
+      "Symbol": "TMDX",
+      "Country": "United States",
+      "IPO Year": 2019,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
+   },
+   "T-Mobile US Inc.": {
+      "Symbol": "TMUS",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Telecommunications",
+      "Industry": "Telecommunications Equipment"
+   },
+   "Tandem Diabetes Care Inc.": {
+      "Symbol": "TNDM",
+      "Country": "United States",
+      "IPO Year": 2013,
+      "Sector": "Health Care",
+      "Industry": "Medical/Dental Instruments"
+   },
+   "TowneBank": {
+      "Symbol": "TOWN",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "TPG Inc.": {
+      "Symbol": "TPG",
+      "Country": "United States",
+      "IPO Year": 2022,
+      "Sector": "Finance",
+      "Industry": "Trusts Except Educational Religious and Charitable"
+   },
+   "TripAdvisor Inc.": {
+      "Symbol": "TRIP",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "",
+      "Industry": ""
+   },
+   "Trimble Inc.": {
+      "Symbol": "TRMB",
+      "Country": "United States",
+      "IPO Year": 1990,
+      "Sector": "Industrials",
+      "Industry": "Industrial Machinery/Components"
+   },
+   "TORM plc": {
+      "Symbol": "TRMD",
+      "Country": "United Kingdom",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Marine Transportation"
+   },
+   "T. Rowe Price Group Inc.": {
+      "Symbol": "TROW",
+      "Country": "United States",
+      "IPO Year": 1986,
+      "Sector": "Finance",
+      "Industry": "Investment Managers"
+   },
+   "Trupanion Inc.": {
+      "Symbol": "TRUP",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": "Medical Specialities"
+   },
+   "Tractor Supply Company": {
+      "Symbol": "TSCO",
+      "Country": "United States",
+      "IPO Year": 1994,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Other Specialty Stores"
+   },
+   "Tesla Inc.": {
+      "Symbol": "TSLA",
+      "Country": "United States",
+      "IPO Year": 2010,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Auto Manufacturing"
+   },
+   "The Trade Desk Inc.": {
+      "Symbol": "TTD",
+      "Country": "United States",
+      "IPO Year": 2016,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "TTEC Holdings Inc.": {
+      "Symbol": "TTEC",
+      "Country": "United States",
+      "IPO Year": 1996,
+      "Sector": "Technology",
+      "Industry": "Retail: Computer Software & Peripheral Equipment"
+   },
+   "Tetra Tech Inc.": {
+      "Symbol": "TTEK",
+      "Country": "United States",
+      "IPO Year": 1991,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Military/Government/Technical"
+   },
+   "Take-Two Interactive Software Inc.": {
+      "Symbol": "TTWO",
+      "Country": "United States",
+      "IPO Year": 1997,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Tradeweb Markets Inc.": {
+      "Symbol": "TW",
+      "Country": "United States",
+      "IPO Year": 2019,
+      "Sector": "Finance",
+      "Industry": "Investment Bankers/Brokers/Service"
+   },
+   "Thoughtworks Holding Inc.": {
+      "Symbol": "TWKS",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Hostess Brands Inc.": {
+      "Symbol": "TWNK",
+      "Country": "United States",
+      "IPO Year": 2015,
+      "Sector": "Consumer Staples",
+      "Industry": "Specialty Foods"
+   },
+   "10x Genomics Inc.": {
+      "Symbol": "TXG",
+      "Country": "United States",
+      "IPO Year": 2019,
+      "Sector": "Health Care",
+      "Industry": "Managed Health Care"
+   },
+   "Texas Instruments Incorporated": {
+      "Symbol": "TXN",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Semiconductors"
+   },
+   "Texas Roadhouse Inc.": {
+      "Symbol": "TXRH",
+      "Country": "United States",
+      "IPO Year": 2004,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Restaurants"
+   },
+   "United Airlines Holdings Inc.": {
+      "Symbol": "UAL",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Air Freight/Delivery Services"
+   },
+   "United Bankshares Inc.": {
+      "Symbol": "UBSI",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "United Community Banks Inc.": {
+      "Symbol": "UCBI",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "UFP Industries Inc.": {
+      "Symbol": "UFPI",
+      "Country": "United States",
+      "IPO Year": 1993,
+      "Sector": "Basic Materials",
+      "Industry": "Forest Products"
+   },
+   "Frontier Group Holdings Inc.": {
+      "Symbol": "ULCC",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Air Freight/Delivery Services"
+   },
+   "Ulta Beauty Inc.": {
+      "Symbol": "ULTA",
+      "Country": "United States",
+      "IPO Year": 2007,
+      "Sector": "",
+      "Industry": ""
+   },
+   "UMB Financial Corporation": {
+      "Symbol": "UMBF",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Commercial Banks"
+   },
+   "Umpqua Holdings Corporation": {
+      "Symbol": "UMPQ",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Commercial Banks"
+   },
+   "Urban Outfitters Inc.": {
+      "Symbol": "URBN",
+      "Country": "United States",
+      "IPO Year": 1993,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Clothing/Shoe/Accessory Stores"
+   },
+   "United Therapeutics Corporation": {
+      "Symbol": "UTHR",
+      "Country": "United States",
+      "IPO Year": 1999,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Visteon Corporation": {
+      "Symbol": "VC",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Auto Parts:O.E.M."
+   },
+   "Victory Capital Holdings Inc.": {
+      "Symbol": "VCTR",
+      "Country": "United States",
+      "IPO Year": 2018,
+      "Sector": "Finance",
+      "Industry": "Investment Managers"
+   },
+   "Vertex Inc.": {
+      "Symbol": "VERX",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Viavi Solutions Inc.": {
+      "Symbol": "VIAV",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Radio And Television Broadcasting And Communications Equipment"
+   },
+   "Vicor Corporation": {
+      "Symbol": "VICR",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Industrial Machinery/Components"
+   },
+   "Vir Biotechnology Inc.": {
+      "Symbol": "VIR",
+      "Country": "United States",
+      "IPO Year": 2019,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "Virtu Financial Inc.": {
+      "Symbol": "VIRT",
+      "Country": "United States",
+      "IPO Year": 2015,
+      "Sector": "Finance",
+      "Industry": "Investment Bankers/Brokers/Service"
+   },
+   "Valley National Bancorp": {
+      "Symbol": "VLY",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Viper Energy Partners LP Common Unit": {
+      "Symbol": "VNOM",
+      "Country": "United States",
+      "IPO Year": 2014,
+      "Sector": "Energy",
+      "Industry": "Oil & Gas Production"
+   },
+   "Vodafone Group Plc American Depositary Shares": {
+      "Symbol": "VOD",
+      "Country": "United Kingdom",
+      "IPO Year": null,
+      "Sector": "Telecommunications",
+      "Industry": "Telecommunications Equipment"
+   },
+   "Varonis Systems Inc.": {
+      "Symbol": "VRNS",
+      "Country": "United States",
+      "IPO Year": 2014,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Verint Systems Inc.": {
+      "Symbol": "VRNT",
+      "Country": "United States",
+      "IPO Year": 2010,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Verra Mobility Corporation": {
+      "Symbol": "VRRM",
+      "Country": "United States",
+      "IPO Year": 2017,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Other Consumer Services"
+   },
+   "Verisk Analytics Inc.": {
+      "Symbol": "VRSK",
+      "Country": "United States",
+      "IPO Year": 2009,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Business Services"
+   },
+   "VeriSign Inc.": {
+      "Symbol": "VRSN",
+      "Country": "United States",
+      "IPO Year": 1998,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Vertex Pharmaceuticals Incorporated": {
+      "Symbol": "VRTX",
+      "Country": "United States",
+      "IPO Year": 1991,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "ViaSat Inc.": {
+      "Symbol": "VSAT",
+      "Country": "United States",
+      "IPO Year": 1996,
+      "Sector": "Technology",
+      "Industry": "Radio And Television Broadcasting And Communications Equipment"
+   },
+   "Viatris Inc.": {
+      "Symbol": "VTRS",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Health Care",
+      "Industry": " Medicinal Chemicals and Botanical Products "
+   },
+   "Ventyx Biosciences Inc.": {
+      "Symbol": "VTYX",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Health Care",
+      "Industry": " Medicinal Chemicals and Botanical Products "
+   },
+   "Washington Federal Inc.": {
+      "Symbol": "WAFD",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Walgreens Boots Alliance Inc.": {
+      "Symbol": "WBA",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Staples",
+      "Industry": "Retail-Drug Stores and Proprietary Stores"
+   },
+   "Warner Bros. Discovery Inc. Series A ": {
+      "Symbol": "WBD",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Telecommunications",
+      "Industry": "Cable & Other Pay Television Services"
+   },
+   "Workday Inc.": {
+      "Symbol": "WDAY",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Western Digital Corporation": {
+      "Symbol": "WDC",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "Electronic Components"
+   },
+   "WD-40 Company": {
+      "Symbol": "WDFC",
+      "Country": "United States",
+      "IPO Year": 1973,
+      "Sector": "Industrials",
+      "Industry": "Industrial Specialties"
+   },
+   "Wendy's Company (The)": {
+      "Symbol": "WEN",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Restaurants"
+   },
+   "Werner Enterprises Inc.": {
+      "Symbol": "WERN",
+      "Country": "United States",
+      "IPO Year": 1986,
+      "Sector": "Industrials",
+      "Industry": "Trucking Freight/Courier Services"
+   },
+   "Weatherford International plc Ordinary Shares": {
+      "Symbol": "WFRD",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Metal Fabrications"
+   },
+   "Wingstop Inc.": {
+      "Symbol": "WING",
+      "Country": "United States",
+      "IPO Year": 2015,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Restaurants"
+   },
+   "Encore Wire Corporation": {
+      "Symbol": "WIRE",
+      "Country": "United States",
+      "IPO Year": 1992,
+      "Sector": "Industrials",
+      "Industry": "Metal Fabrications"
+   },
+   "Warner Music Group Corp.": {
+      "Symbol": "WMG",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Movies/Entertainment"
+   },
+   "Petco Health and Wellness Company Inc.": {
+      "Symbol": "WOOF",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Miscellaneous",
+      "Industry": "Diversified Commercial Services"
+   },
+   "WesBanco Inc.": {
+      "Symbol": "WSBC",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "WillScot Mobile Mini Holdings Corp.": {
+      "Symbol": "WSC",
+      "Country": "United States",
+      "IPO Year": 2015,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Diversified Commercial Services"
+   },
+   "WSFS Financial Corporation": {
+      "Symbol": "WSFS",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Wintrust Financial Corporation": {
+      "Symbol": "WTFC",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Willis Towers Watson Public Limited Company Ordinary Shares": {
+      "Symbol": "WTW",
+      "Country": "United Kingdom",
+      "IPO Year": 2001,
+      "Sector": "Finance",
+      "Industry": "Specialty Insurers"
+   },
+   "Woodward Inc.": {
+      "Symbol": "WWD",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Industrials",
+      "Industry": "Military/Government/Technical"
+   },
+   "Wynn Resorts Limited": {
+      "Symbol": "WYNN",
+      "Country": "United States",
+      "IPO Year": 2002,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Hotels/Resorts"
+   },
+   "Xcel Energy Inc.": {
+      "Symbol": "XEL",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Utilities",
+      "Industry": "Power Generation"
+   },
+   "Qualtrics International Inc.": {
+      "Symbol": "XM",
+      "Country": "United States",
+      "IPO Year": 2021,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Xencor Inc.": {
+      "Symbol": "XNCR",
+      "Country": "United States",
+      "IPO Year": 2013,
+      "Sector": "Health Care",
+      "Industry": "Biotechnology: Pharmaceutical Preparations"
+   },
+   "XPEL Inc.": {
+      "Symbol": "XPEL",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Auto Parts:O.E.M."
+   },
+   "DENTSPLY SIRONA Inc.": {
+      "Symbol": "XRAY",
+      "Country": "United States",
+      "IPO Year": 1987,
+      "Sector": "Health Care",
+      "Industry": "Medical/Dental Instruments"
+   },
+   "Xerox Holdings Corporation": {
+      "Symbol": "XRX",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   },
+   "Zillow Group Inc. Capital Stock": {
+      "Symbol": "Z",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Business Services"
+   },
+   "Zebra Technologies Corporation": {
+      "Symbol": "ZBRA",
+      "Country": "United States",
+      "IPO Year": 1991,
+      "Sector": "Technology",
+      "Industry": "Computer peripheral equipment"
+   },
+   "Ziff Davis Inc.": {
+      "Symbol": "ZD",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Advertising"
+   },
+   "Zillow Group Inc.": {
+      "Symbol": "ZG",
+      "Country": "United States",
+      "IPO Year": 2011,
+      "Sector": "Consumer Discretionary",
+      "Industry": "Business Services"
+   },
+   "ZoomInfo Technologies Inc": {
+      "Symbol": "ZI",
+      "Country": "United States",
+      "IPO Year": 2020,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Zions Bancorporation N.A.": {
+      "Symbol": "ZION",
+      "Country": "United States",
+      "IPO Year": null,
+      "Sector": "Finance",
+      "Industry": "Major Banks"
+   },
+   "Zoom Video Communications Inc.": {
+      "Symbol": "ZM",
+      "Country": "United States",
+      "IPO Year": 2019,
+      "Sector": "Technology",
+      "Industry": "Computer Software: Prepackaged Software"
+   },
+   "Zscaler Inc.": {
+      "Symbol": "ZS",
+      "Country": "United States",
+      "IPO Year": 2018,
+      "Sector": "Technology",
+      "Industry": "EDP Services"
+   }
+}

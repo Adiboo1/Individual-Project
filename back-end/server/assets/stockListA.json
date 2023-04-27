@@ -1,0 +1,4794 @@
+[
+ {
+   "Symbol": "AAL",
+   "Name": "American Airlines Group Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Air Freight/Delivery Services"
+ },
+ {
+   "Symbol": "AAON",
+   "Name": "AAON Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Industrial Machinery/Components"
+ },
+ {
+   "Symbol": "AAPL",
+   "Name": "Apple Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1980,
+   "Sector": "Technology",
+   "Industry": "Computer Manufacturing"
+ },
+ {
+   "Symbol": "AAWW",
+   "Name": "Atlas Air Worldwide Holdings NEW Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Transportation Services"
+ },
+ {
+   "Symbol": "ABCB",
+   "Name": "Ameris Bancorp Common Stock",
+   "Country": "United States",
+   "IPO Year": 1994,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "ABCM",
+   "Name": "Abcam plc American Depositary Shares",
+   "Country": "United Kingdom",
+   "IPO Year": 2020,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+ },
+ {
+   "Symbol": "ABNB",
+   "Name": "Airbnb Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Hotels/Resorts"
+ },
+ {
+   "Symbol": "ACAD",
+   "Name": "ACADIA Pharmaceuticals Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1985,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "ACHC",
+   "Name": "Acadia Healthcare Company Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": "Hospital/Nursing Management"
+ },
+ {
+   "Symbol": "ACIW",
+   "Name": "ACI Worldwide Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "ACLS",
+   "Name": "Axcelis Technologies Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2000,
+   "Sector": "Technology",
+   "Industry": "Industrial Machinery/Components"
+ },
+ {
+   "Symbol": "ACT",
+   "Name": "Enact Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Finance",
+   "Industry": "Specialty Insurers"
+ },
+ {
+   "Symbol": "ADBE",
+   "Name": "Adobe Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1986,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "ADI",
+   "Name": "Analog Devices Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "ADP",
+   "Name": "Automatic Data Processing Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Business Services"
+ },
+ {
+   "Symbol": "ADSK",
+   "Name": "Autodesk Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "AEIS",
+   "Name": "Advanced Energy Industries Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1995,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Electrical Products"
+ },
+ {
+   "Symbol": "AEP",
+   "Name": "American Electric Power Company Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Utilities",
+   "Industry": "Electric Utilities: Central"
+ },
+ {
+   "Symbol": "AFRM",
+   "Name": "Affirm Holdings Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "AGNC",
+   "Name": "AGNC Investment Corp. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2008,
+   "Sector": "Real Estate",
+   "Industry": "Real Estate Investment Trusts"
+ },
+ {
+   "Symbol": "AGYS",
+   "Name": "Agilysys Inc. Common Stock (DE)",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "AHCO",
+   "Name": "AdaptHealth Corp. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2018,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
+ },
+ {
+   "Symbol": "AIMC",
+   "Name": "Altra Industrial Motion Corp. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2006,
+   "Sector": "Industrials",
+   "Industry": "Industrial Machinery/Components"
+ },
+ {
+   "Symbol": "AKAM",
+   "Name": "Akamai Technologies Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1999,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Business Services"
+ },
+ {
+   "Symbol": "AKRO",
+   "Name": "Akero Therapeutics Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2019,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "ALGM",
+   "Name": "Allegro MicroSystems Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "ALGN",
+   "Name": "Align Technology Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2001,
+   "Sector": "Health Care",
+   "Industry": "Industrial Specialties"
+ },
+ {
+   "Symbol": "ALHC",
+   "Name": "Alignment Healthcare Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Health Care",
+   "Industry": "Medical Specialities"
+ },
+ {
+   "Symbol": "ALNY",
+   "Name": "Alnylam Pharmaceuticals Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2004,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "ALRM",
+   "Name": "Alarm.com Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2015,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "ALTR",
+   "Name": "Altair Engineering Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2017,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "AMAT",
+   "Name": "Applied Materials Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1972,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "AMBA",
+   "Name": "Ambarella Inc. Ordinary Shares",
+   "Country": "United States",
+   "IPO Year": 2012,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "AMD",
+   "Name": "Advanced Micro Devices Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "AMED",
+   "Name": "Amedisys Inc Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": "Medical/Nursing Services"
+ },
+ {
+   "Symbol": "AMGN",
+   "Name": "Amgen Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1983,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "AMKR",
+   "Name": "Amkor Technology Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1998,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "AMLX",
+   "Name": "Amylyx Pharmaceuticals Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2022,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "AMZN",
+   "Name": "Amazon.com Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1997,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Catalog/Specialty Distribution"
+ },
+ {
+   "Symbol": "ANSS",
+   "Name": "ANSYS Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1996,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "APA",
+   "Name": "APA Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Energy",
+   "Industry": "Oil & Gas Production"
+ },
+ {
+   "Symbol": "APLS",
+   "Name": "Apellis Pharmaceuticals Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2017,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "APP",
+   "Name": "Applovin Corporation Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "APPF",
+   "Name": "AppFolio Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2015,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "APPN",
+   "Name": "Appian Corporation Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2017,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "ARCB",
+   "Name": "ArcBest Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Trucking Freight/Courier Services"
+ },
+ {
+   "Symbol": "ARCC",
+   "Name": "Ares Capital Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 2004,
+   "Sector": "Finance",
+   "Industry": "Finance/Investors Services"
+ },
+ {
+   "Symbol": "ARLP",
+   "Name": "Alliance Resource Partners L.P. Common Units representing Limited Partners Interests",
+   "Country": "United States",
+   "IPO Year": 1999,
+   "Sector": "Energy",
+   "Industry": "Coal Mining"
+ },
+ {
+   "Symbol": "ARRY",
+   "Name": "Array Technologies Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "ARWR",
+   "Name": "Arrowhead Pharmaceuticals Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "ASO",
+   "Name": "Academy Sports and Outdoors Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Recreational Games/Products/Toys"
+ },
+ {
+   "Symbol": "ATVI",
+   "Name": "Activision Blizzard Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Recreational Games/Products/Toys"
+ },
+ {
+   "Symbol": "AVAV",
+   "Name": "AeroVironment Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2007,
+   "Sector": "Industrials",
+   "Industry": "Aerospace"
+ },
+ {
+   "Symbol": "AVGO",
+   "Name": "Broadcom Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2009,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "AVT",
+   "Name": "Avnet Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Electronic Components"
+ },
+ {
+   "Symbol": "AXNX",
+   "Name": "Axonics Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2018,
+   "Sector": "Health Care",
+   "Industry": "Medical/Dental Instruments"
+ },
+ {
+   "Symbol": "AXON",
+   "Name": "Axon Enterprise Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2001,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Military/Government/Technical"
+ },
+ {
+   "Symbol": "AXSM",
+   "Name": "Axsome Therapeutics Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2015,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "AY",
+   "Name": "Atlantica Sustainable Infrastructure plc Ordinary Shares",
+   "Country": "United Kingdom",
+   "IPO Year": 2014,
+   "Sector": "Utilities",
+   "Industry": "Electric Utilities: Central"
+ },
+ {
+   "Symbol": "AZN",
+   "Name": "AstraZeneca PLC American Depositary Shares",
+   "Country": "United Kingdom",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "AZPN",
+   "Name": "Aspen Technology Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "AZTA",
+   "Name": "Azenta Inc.",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": "Medical/Dental Instruments"
+ },
+ {
+   "Symbol": "BANF",
+   "Name": "BancFirst Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 1993,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "BANR",
+   "Name": "Banner Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "BCPC",
+   "Name": "Balchem Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Industrial Specialties"
+ },
+ {
+   "Symbol": "BEAM",
+   "Name": "Beam Therapeutics Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Health Care",
+   "Industry": " Medicinal Chemicals and Botanical Products "
+ },
+ {
+   "Symbol": "BECN",
+   "Name": "Beacon Roofing Supply Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2004,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Wholesale Distributors"
+ },
+ {
+   "Symbol": "BHF",
+   "Name": "Brighthouse Financial Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Life Insurance"
+ },
+ {
+   "Symbol": "BIIB",
+   "Name": "Biogen Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "BKNG",
+   "Name": "Booking Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Other Consumer Services"
+ },
+ {
+   "Symbol": "BKR",
+   "Name": "Baker Hughes Company Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Energy",
+   "Industry": "Oilfield Services/Equipment"
+ },
+ {
+   "Symbol": "BL",
+   "Name": "BlackLine Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2016,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "BLKB",
+   "Name": "Blackbaud Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2004,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "BLMN",
+   "Name": "Bloomin' Brands Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2012,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Restaurants"
+ },
+ {
+   "Symbol": "BMBL",
+   "Name": "Bumble Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "BMRN",
+   "Name": "BioMarin Pharmaceutical Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1999,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "BOKF",
+   "Name": "BOK Financial Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "BPMC",
+   "Name": "Blueprint Medicines Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 2015,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "BPOP",
+   "Name": "Popular Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "BRKR",
+   "Name": "Bruker Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Biotechnology: Laboratory Analytical Instruments"
+ },
+ {
+   "Symbol": "BRZE",
+   "Name": "Braze Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "BSY",
+   "Name": "Bentley Systems Incorporated Class B Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Technology",
+   "Industry": "Retail: Computer Software & Peripheral Equipment"
+ },
+ {
+   "Symbol": "CACC",
+   "Name": "Credit Acceptance Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 1992,
+   "Sector": "Finance",
+   "Industry": "Finance: Consumer Services"
+ },
+ {
+   "Symbol": "CAKE",
+   "Name": "Cheesecake Factory Incorporated (The) Common Stock",
+   "Country": "United States",
+   "IPO Year": 1992,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Restaurants"
+ },
+ {
+   "Symbol": "CALM",
+   "Name": "Cal-Maine Foods Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1996,
+   "Sector": "Consumer Staples",
+   "Industry": "Farming/Seeds/Milling"
+ },
+ {
+   "Symbol": "CAR",
+   "Name": "Avis Budget Group Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Rental/Leasing Companies"
+ },
+ {
+   "Symbol": "CASY",
+   "Name": "Casey's General Stores Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1983,
+   "Sector": "Miscellaneous",
+   "Industry": "Diversified Commercial Services"
+ },
+ {
+   "Symbol": "CATY",
+   "Name": "Cathay General Bancorp Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "CBRL",
+   "Name": "Cracker Barrel Old Country Store Inc Common Stock",
+   "Country": "United States",
+   "IPO Year": 1981,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Restaurants"
+ },
+ {
+   "Symbol": "CBSH",
+   "Name": "Commerce Bancshares Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "CCCS",
+   "Name": "CCC Intelligent Solutions Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "CCEP",
+   "Name": "Coca-Cola Europacific Partners plc Ordinary Shares",
+   "Country": "United Kingdom",
+   "IPO Year": null,
+   "Sector": "Consumer Staples",
+   "Industry": "Beverages (Production/Distribution)"
+ },
+ {
+   "Symbol": "CCOI",
+   "Name": "Cogent Communications Holdings Inc.",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Telecommunications Equipment"
+ },
+ {
+   "Symbol": "CDNS",
+   "Name": "Cadence Design Systems Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "CDW",
+   "Name": "CDW Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 2013,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Catalog/Specialty Distribution"
+ },
+ {
+   "Symbol": "CEG",
+   "Name": "Constellation Energy Corporation Common Stock ",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Utilities",
+   "Industry": "Power Generation"
+ },
+ {
+   "Symbol": "CELH",
+   "Name": "Celsius Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Staples",
+   "Industry": "Beverages (Production/Distribution)"
+ },
+ {
+   "Symbol": "CENT",
+   "Name": "Central Garden & Pet Company Common Stock",
+   "Country": "United States",
+   "IPO Year": 1993,
+   "Sector": "",
+   "Industry": ""
+ },
+ {
+   "Symbol": "CENTA",
+   "Name": "Central Garden & Pet Company Class A Common Stock Nonvoting",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "",
+   "Industry": ""
+ },
+ {
+   "Symbol": "CERE",
+   "Name": "Cerevel Therapeutics Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "CERT",
+   "Name": "Certara Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Technology",
+   "Industry": "Retail: Computer Software & Peripheral Equipment"
+ },
+ {
+   "Symbol": "CFLT",
+   "Name": "Confluent Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "CG",
+   "Name": "The Carlyle Group Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2012,
+   "Sector": "Finance",
+   "Industry": "Investment Managers"
+ },
+ {
+   "Symbol": "CGNX",
+   "Name": "Cognex Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 1989,
+   "Sector": "Industrials",
+   "Industry": "Industrial Machinery/Components"
+ },
+ {
+   "Symbol": "CHDN",
+   "Name": "Churchill Downs Incorporated Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Services-Misc. Amusement & Recreation"
+ },
+ {
+   "Symbol": "CHK",
+   "Name": "Chesapeake Energy Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Energy",
+   "Industry": "Oil & Gas Production"
+ },
+ {
+   "Symbol": "CHRD",
+   "Name": "Chord Energy Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Energy",
+   "Industry": "Oil & Gas Production"
+ },
+ {
+   "Symbol": "CHRW",
+   "Name": "C.H. Robinson Worldwide Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1997,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Oil Refining/Marketing"
+ },
+ {
+   "Symbol": "CHTR",
+   "Name": "Charter Communications Inc. Class A Common Stock New",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Telecommunications Equipment"
+ },
+ {
+   "Symbol": "CHX",
+   "Name": "ChampionX Corporation Common Stock ",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Construction/Ag Equipment/Trucks"
+ },
+ {
+   "Symbol": "CINF",
+   "Name": "Cincinnati Financial Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Property-Casualty Insurers"
+ },
+ {
+   "Symbol": "CLBK",
+   "Name": "Columbia Financial Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2018,
+   "Sector": "Finance",
+   "Industry": "Commercial Banks"
+ },
+ {
+   "Symbol": "CMCSA",
+   "Name": "Comcast Corporation Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Telecommunications Equipment"
+ },
+ {
+   "Symbol": "CME",
+   "Name": "CME Group Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2002,
+   "Sector": "Finance",
+   "Industry": "Investment Bankers/Brokers/Service"
+ },
+ {
+   "Symbol": "CNXC",
+   "Name": "Concentrix Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "COHR",
+   "Name": "Coherent Corp. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Industrial Machinery/Components"
+ },
+ {
+   "Symbol": "COIN",
+   "Name": "Coinbase Global Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "COKE",
+   "Name": "Coca-Cola Consolidated Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1972,
+   "Sector": "Consumer Staples",
+   "Industry": "Beverages (Production/Distribution)"
+ },
+ {
+   "Symbol": "COLB",
+   "Name": "Columbia Banking System Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1992,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "COLM",
+   "Name": "Columbia Sportswear Company Common Stock",
+   "Country": "United States",
+   "IPO Year": 1998,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Apparel"
+ },
+ {
+   "Symbol": "COOP",
+   "Name": "Mr. Cooper Group Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Finance: Consumer Services"
+ },
+ {
+   "Symbol": "CORT",
+   "Name": "Corcept Therapeutics Incorporated Common Stock",
+   "Country": "United States",
+   "IPO Year": 2004,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "COST",
+   "Name": "Costco Wholesale Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Department/Specialty Retail Stores"
+ },
+ {
+   "Symbol": "COUP",
+   "Name": "Coupa Software Incorporated Common Stock",
+   "Country": "United States",
+   "IPO Year": 2016,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "CPRT",
+   "Name": "Copart Inc. (DE) Common Stock",
+   "Country": "United States",
+   "IPO Year": 1994,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Other Specialty Stores"
+ },
+ {
+   "Symbol": "CRCT",
+   "Name": "Cricut Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Industrials",
+   "Industry": "Wholesale Distributors"
+ },
+ {
+   "Symbol": "CROX",
+   "Name": "Crocs Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2006,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Shoe Manufacturing"
+ },
+ {
+   "Symbol": "CRUS",
+   "Name": "Cirrus Logic Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1989,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "CRVL",
+   "Name": "CorVel Corp. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Specialty Insurers"
+ },
+ {
+   "Symbol": "CRWD",
+   "Name": "CrowdStrike Holdings Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2019,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "CSCO",
+   "Name": "Cisco Systems Inc. Common Stock (DE)",
+   "Country": "United States",
+   "IPO Year": 1990,
+   "Sector": "Telecommunications",
+   "Industry": "Computer Communications Equipment"
+ },
+ {
+   "Symbol": "CSGP",
+   "Name": "CoStar Group Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1998,
+   "Sector": "Finance",
+   "Industry": "Real Estate"
+ },
+ {
+   "Symbol": "CSQ",
+   "Name": "Calamos Strategic Total Return Common Stock",
+   "Country": "United States",
+   "IPO Year": 2004,
+   "Sector": "Finance",
+   "Industry": "Finance Companies"
+ },
+ {
+   "Symbol": "CSWI",
+   "Name": "CSW Industrials Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Home Furnishings"
+ },
+ {
+   "Symbol": "CSX",
+   "Name": "CSX Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Railroads"
+ },
+ {
+   "Symbol": "CTAS",
+   "Name": "Cintas Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 1983,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Business Services"
+ },
+ {
+   "Symbol": "CTSH",
+   "Name": "Cognizant Technology Solutions Corporation Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 1998,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "CVBF",
+   "Name": "CVB Financial Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "CVCO",
+   "Name": "Cavco Industries Inc. Common Stock When Issued",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Homebuilding"
+ },
+ {
+   "Symbol": "CVLT",
+   "Name": "Commvault Systems Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2006,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "CVT",
+   "Name": "Cvent Holding Corp. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1987,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "CWST",
+   "Name": "Casella Waste Systems Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 1997,
+   "Sector": "Utilities",
+   "Industry": "Environmental Services"
+ },
+ {
+   "Symbol": "CYTK",
+   "Name": "Cytokinetics Incorporated Common Stock",
+   "Country": "United States",
+   "IPO Year": 2004,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "CZR",
+   "Name": "Caesars Entertainment Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Hotels/Resorts"
+ },
+ {
+   "Symbol": "DBX",
+   "Name": "Dropbox Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2018,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "DCT",
+   "Name": "Duck Creek Technologies Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Technology",
+   "Industry": "Retail: Computer Software & Peripheral Equipment"
+ },
+ {
+   "Symbol": "DDOG",
+   "Name": "Datadog Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2019,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "DIOD",
+   "Name": "Diodes Incorporated Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "DISH",
+   "Name": "DISH Network Corporation Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 1995,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Telecommunications Equipment"
+ },
+ {
+   "Symbol": "DKNG",
+   "Name": "DraftKings Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2019,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Services-Misc. Amusement & Recreation"
+ },
+ {
+   "Symbol": "DLTR",
+   "Name": "Dollar Tree Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1995,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Department/Specialty Retail Stores"
+ },
+ {
+   "Symbol": "DNLI",
+   "Name": "Denali Therapeutics Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2017,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+ },
+ {
+   "Symbol": "DNUT",
+   "Name": "Krispy Kreme Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Specialty Foods"
+ },
+ {
+   "Symbol": "DOCU",
+   "Name": "DocuSign Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2018,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "DORM",
+   "Name": "Dorman Products Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Auto Parts:O.E.M."
+ },
+ {
+   "Symbol": "DRVN",
+   "Name": "Driven Brands Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "",
+   "Industry": ""
+ },
+ {
+   "Symbol": "DUOL",
+   "Name": "Duolingo Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "DXCM",
+   "Name": "DexCom Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2005,
+   "Sector": "Health Care",
+   "Industry": "Medical Specialities"
+ },
+ {
+   "Symbol": "EA",
+   "Name": "Electronic Arts Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Recreational Games/Products/Toys"
+ },
+ {
+   "Symbol": "EBAY",
+   "Name": "eBay Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1998,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Catalog/Specialty Distribution"
+ },
+ {
+   "Symbol": "EBC",
+   "Name": "Eastern Bankshares Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "EEFT",
+   "Name": "Euronet Worldwide Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1997,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "EFSC",
+   "Name": "Enterprise Financial Services Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "ENPH",
+   "Name": "Enphase Energy Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2012,
+   "Sector": "Technology",
+   "Industry": "Electrical Products"
+ },
+ {
+   "Symbol": "ENSG",
+   "Name": "The Ensign Group Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2007,
+   "Sector": "Health Care",
+   "Industry": "Hospital/Nursing Management"
+ },
+ {
+   "Symbol": "ENTG",
+   "Name": "Entegris Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2000,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "EQIX",
+   "Name": "Equinix Inc. Common Stock REIT",
+   "Country": "United States",
+   "IPO Year": 2000,
+   "Sector": "Real Estate",
+   "Industry": "Real Estate Investment Trusts"
+ },
+ {
+   "Symbol": "ERIE",
+   "Name": "Erie Indemnity Company Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Specialty Insurers"
+ },
+ {
+   "Symbol": "ETSY",
+   "Name": "Etsy Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2015,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Catalog/Specialty Distribution"
+ },
+ {
+   "Symbol": "EVRG",
+   "Name": "Evergy Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Utilities",
+   "Industry": "Power Generation"
+ },
+ {
+   "Symbol": "EWBC",
+   "Name": "East West Bancorp Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Commercial Banks"
+ },
+ {
+   "Symbol": "EXAS",
+   "Name": "Exact Sciences Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 2001,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Commercial Physical & Biological Resarch"
+ },
+ {
+   "Symbol": "EXC",
+   "Name": "Exelon Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Utilities",
+   "Industry": "Power Generation"
+ },
+ {
+   "Symbol": "EXEL",
+   "Name": "Exelixis Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2000,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Commercial Physical & Biological Resarch"
+ },
+ {
+   "Symbol": "EXLS",
+   "Name": "ExlService Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2006,
+   "Sector": "Technology",
+   "Industry": "Retail: Computer Software & Peripheral Equipment"
+ },
+ {
+   "Symbol": "EXPD",
+   "Name": "Expeditors International of Washington Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Oil Refining/Marketing"
+ },
+ {
+   "Symbol": "EXPE",
+   "Name": "Expedia Group Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Other Consumer Services"
+ },
+ {
+   "Symbol": "EXPI",
+   "Name": "eXp World Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Real Estate"
+ },
+ {
+   "Symbol": "EXPO",
+   "Name": "Exponent Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Professional Services"
+ },
+ {
+   "Symbol": "EXTR",
+   "Name": "Extreme Networks Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1999,
+   "Sector": "Telecommunications",
+   "Industry": "Telecommunications Equipment"
+ },
+ {
+   "Symbol": "EYE",
+   "Name": "National Vision Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2017,
+   "Sector": "Health Care",
+   "Industry": "Ophthalmic Goods"
+ },
+ {
+   "Symbol": "FA",
+   "Name": "First Advantage Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Business Services"
+ },
+ {
+   "Symbol": "FANG",
+   "Name": "Diamondback Energy Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2012,
+   "Sector": "Energy",
+   "Industry": "Oil & Gas Production"
+ },
+ {
+   "Symbol": "FAST",
+   "Name": "Fastenal Company Common Stock",
+   "Country": "United States",
+   "IPO Year": 1987,
+   "Sector": "Basic Materials",
+   "Industry": "Construction Materials"
+ },
+ {
+   "Symbol": "FCFS",
+   "Name": "FirstCash Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1991,
+   "Sector": "Miscellaneous",
+   "Industry": "Diversified Commercial Services"
+ },
+ {
+   "Symbol": "FCNCA",
+   "Name": "First Citizens BancShares Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "FELE",
+   "Name": "Franklin Electric Co. Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Metal Fabrications"
+ },
+ {
+   "Symbol": "FFBC",
+   "Name": "First Financial Bancorp. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "FFIN",
+   "Name": "First Financial Bankshares Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "FFIV",
+   "Name": "F5 Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1999,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "FGEN",
+   "Name": "FibroGen Inc Common Stock",
+   "Country": "United States",
+   "IPO Year": 2014,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "FHB",
+   "Name": "First Hawaiian Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2016,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "FIBK",
+   "Name": "First Interstate BancSystem Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2010,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "FISV",
+   "Name": "Fiserv Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1986,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Business Services"
+ },
+ {
+   "Symbol": "FITB",
+   "Name": "Fifth Third Bancorp Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "FIVE",
+   "Name": "Five Below Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2012,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Department/Specialty Retail Stores"
+ },
+ {
+   "Symbol": "FIVN",
+   "Name": "Five9 Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2014,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "FIZZ",
+   "Name": "National Beverage Corp. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Staples",
+   "Industry": "Beverages (Production/Distribution)"
+ },
+ {
+   "Symbol": "FLNC",
+   "Name": "Fluence Energy Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Utilities",
+   "Industry": "Power Generation"
+ },
+ {
+   "Symbol": "FLYW",
+   "Name": "Flywire Corporation Voting Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "FOCS",
+   "Name": "Focus Financial Partners Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2018,
+   "Sector": "Finance",
+   "Industry": "Investment Managers"
+ },
+ {
+   "Symbol": "FOLD",
+   "Name": "Amicus Therapeutics Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2007,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "FORM",
+   "Name": "FormFactor Inc. FormFactor Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2003,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "FOX",
+   "Name": "Fox Corporation Class B Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Broadcasting"
+ },
+ {
+   "Symbol": "FOXA",
+   "Name": "Fox Corporation Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Broadcasting"
+ },
+ {
+   "Symbol": "FOXF",
+   "Name": "Fox Factory Holding Corp. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2013,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Auto Parts:O.E.M."
+ },
+ {
+   "Symbol": "FRME",
+   "Name": "First Merchants Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "FROG",
+   "Name": "JFrog Ltd. Ordinary Shares",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "FRPT",
+   "Name": "Freshpet Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2014,
+   "Sector": "",
+   "Industry": ""
+ },
+ {
+   "Symbol": "FRSH",
+   "Name": "Freshworks Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "FSLR",
+   "Name": "First Solar Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2006,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "FTAI",
+   "Name": "FTAI Aviation Ltd. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Diversified Commercial Services"
+ },
+ {
+   "Symbol": "FTDR",
+   "Name": "Frontdoor Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Other Consumer Services"
+ },
+ {
+   "Symbol": "FTNT",
+   "Name": "Fortinet Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2009,
+   "Sector": "Technology",
+   "Industry": "Security Systems Services"
+ },
+ {
+   "Symbol": "FULT",
+   "Name": "Fulton Financial Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "FWONA",
+   "Name": "Liberty Media Corporation Series A Liberty Formula One Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Movies/Entertainment"
+ },
+ {
+   "Symbol": "FWONK",
+   "Name": "Liberty Media Corporation Series C Liberty Formula One Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Movies/Entertainment"
+ },
+ {
+   "Symbol": "FWRD",
+   "Name": "Forward Air Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Oil Refining/Marketing"
+ },
+ {
+   "Symbol": "FYBR",
+   "Name": "Frontier Communications Parent Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Telecommunications Equipment"
+ },
+ {
+   "Symbol": "GBDC",
+   "Name": "Golub Capital BDC Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2010,
+   "Sector": "Finance",
+   "Industry": "Investment Managers"
+ },
+ {
+   "Symbol": "GDRX",
+   "Name": "GoodRx Holdings Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Technology",
+   "Industry": "Retail: Computer Software & Peripheral Equipment"
+ },
+ {
+   "Symbol": "GEHC",
+   "Name": "GE HealthCare Technologies Inc. Common Stock ",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "GEN",
+   "Name": "Gen Digital Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "GFS",
+   "Name": "GlobalFoundries Inc. Ordinary Shares",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "GH",
+   "Name": "Guardant Health Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2018,
+   "Sector": "Health Care",
+   "Industry": "Medical Specialities"
+ },
+ {
+   "Symbol": "GILD",
+   "Name": "Gilead Sciences Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1992,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "GLPI",
+   "Name": "Gaming and Leisure Properties Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Real Estate",
+   "Industry": "Real Estate Investment Trusts"
+ },
+ {
+   "Symbol": "GNTX",
+   "Name": "Gentex Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Auto Parts:O.E.M."
+ },
+ {
+   "Symbol": "GO",
+   "Name": "Grocery Outlet Holding Corp. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2019,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Specialty Foods"
+ },
+ {
+   "Symbol": "GOOG",
+   "Name": "Alphabet Inc. Class C Capital Stock",
+   "Country": "United States",
+   "IPO Year": 2004,
+   "Sector": "Technology",
+   "Industry": "Internet and Information Services"
+ },
+ {
+   "Symbol": "GOOGL",
+   "Name": "Alphabet Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2004,
+   "Sector": "Technology",
+   "Industry": "Internet and Information Services"
+ },
+ {
+   "Symbol": "GT",
+   "Name": "The Goodyear Tire & Rubber Company Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Automotive Aftermarket"
+ },
+ {
+   "Symbol": "GTLB",
+   "Name": "GitLab Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "HALO",
+   "Name": "Halozyme Therapeutics Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+ },
+ {
+   "Symbol": "HAS",
+   "Name": "Hasbro Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Recreational Games/Products/Toys"
+ },
+ {
+   "Symbol": "HBAN",
+   "Name": "Huntington Bancshares Incorporated Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "HCP",
+   "Name": "HashiCorp Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "HLNE",
+   "Name": "Hamilton Lane Incorporated Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2017,
+   "Sector": "Finance",
+   "Industry": "Investment Managers"
+ },
+ {
+   "Symbol": "HOLX",
+   "Name": "Hologic Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1990,
+   "Sector": "Health Care",
+   "Industry": "Medical Electronics"
+ },
+ {
+   "Symbol": "HON",
+   "Name": "Honeywell International Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Consumer Electronics/Appliances"
+ },
+ {
+   "Symbol": "HOOD",
+   "Name": "Robinhood Markets Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "HPK",
+   "Name": "HighPeak Energy Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Energy",
+   "Industry": "Oil & Gas Production"
+ },
+ {
+   "Symbol": "HQY",
+   "Name": "HealthEquity Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2014,
+   "Sector": "Health Care",
+   "Industry": "Managed Health Care"
+ },
+ {
+   "Symbol": "HRMY",
+   "Name": "Harmony Biosciences Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "HSIC",
+   "Name": "Henry Schein Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1995,
+   "Sector": "Health Care",
+   "Industry": "Medical Specialities"
+ },
+ {
+   "Symbol": "HST",
+   "Name": "Host Hotels & Resorts Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Real Estate",
+   "Industry": "Real Estate Investment Trusts"
+ },
+ {
+   "Symbol": "HTLF",
+   "Name": "Heartland Financial USA Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "HTZ",
+   "Name": "Hertz Global Holdings Inc Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Rental/Leasing Companies"
+ },
+ {
+   "Symbol": "HUBG",
+   "Name": "Hub Group Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 1996,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Oil Refining/Marketing"
+ },
+ {
+   "Symbol": "HWC",
+   "Name": "Hancock Whitney Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "IAC",
+   "Name": "IAC Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "IART",
+   "Name": "Integra LifeSciences Holdings Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": "Medical/Dental Instruments"
+ },
+ {
+   "Symbol": "IBKR",
+   "Name": "Interactive Brokers Group Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2019,
+   "Sector": "Finance",
+   "Industry": "Investment Bankers/Brokers/Service"
+ },
+ {
+   "Symbol": "IBOC",
+   "Name": "International Bancshares Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "IBTX",
+   "Name": "Independent Bank Group Inc Common Stock",
+   "Country": "United States",
+   "IPO Year": 2013,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "ICUI",
+   "Name": "ICU Medical Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1992,
+   "Sector": "Health Care",
+   "Industry": "Medical/Dental Instruments"
+ },
+ {
+   "Symbol": "IDCC",
+   "Name": "InterDigital Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Telecommunications",
+   "Industry": "Telecommunications Equipment"
+ },
+ {
+   "Symbol": "IDXX",
+   "Name": "IDEXX Laboratories Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1991,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances"
+ },
+ {
+   "Symbol": "IEP",
+   "Name": "Icahn Enterprises L.P. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Consumer Electronics/Appliances"
+ },
+ {
+   "Symbol": "ILMN",
+   "Name": "Illumina Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2000,
+   "Sector": "Health Care",
+   "Industry": "Medical Specialities"
+ },
+ {
+   "Symbol": "IMCR",
+   "Name": "Immunocore Holdings plc American Depositary Shares",
+   "Country": "United Kingdom",
+   "IPO Year": 2021,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+ },
+ {
+   "Symbol": "INCY",
+   "Name": "Incyte Corp. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Commercial Physical & Biological Resarch"
+ },
+ {
+   "Symbol": "INDB",
+   "Name": "Independent Bank Corp. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "INSM",
+   "Name": "Insmed Incorporated Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "INTA",
+   "Name": "Intapp Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "INTC",
+   "Name": "Intel Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "INTU",
+   "Name": "Intuit Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1993,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "IONS",
+   "Name": "Ionis Pharmaceuticals Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "IOSP",
+   "Name": "Innospec Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Industrial Specialties"
+ },
+ {
+   "Symbol": "IPAR",
+   "Name": "Inter Parfums Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Package Goods/Cosmetics"
+ },
+ {
+   "Symbol": "IPGP",
+   "Name": "IPG Photonics Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 2006,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "IRDM",
+   "Name": "Iridium Communications Inc Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Telecommunications Equipment"
+ },
+ {
+   "Symbol": "IRTC",
+   "Name": "iRhythm Technologies Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2016,
+   "Sector": "Health Care",
+   "Industry": "Medical/Dental Instruments"
+ },
+ {
+   "Symbol": "ISEE",
+   "Name": "IVERIC bio Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2013,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "ISRG",
+   "Name": "Intuitive Surgical Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2000,
+   "Sector": "Health Care",
+   "Industry": "Medical/Dental Instruments"
+ },
+ {
+   "Symbol": "ITCI",
+   "Name": "Intra-Cellular Therapies Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "ITRI",
+   "Name": "Itron Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1993,
+   "Sector": "Industrials",
+   "Industry": "Electrical Products"
+ },
+ {
+   "Symbol": "JAMF",
+   "Name": "Jamf Holding Corp. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "JBHT",
+   "Name": "J.B. Hunt Transport Services Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Trucking Freight/Courier Services"
+ },
+ {
+   "Symbol": "JBLU",
+   "Name": "JetBlue Airways Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 2002,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Air Freight/Delivery Services"
+ },
+ {
+   "Symbol": "JJSF",
+   "Name": "J & J Snack Foods Corp. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1986,
+   "Sector": "Consumer Staples",
+   "Industry": "Specialty Foods"
+ },
+ {
+   "Symbol": "JKHY",
+   "Name": "Jack Henry & Associates Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1985,
+   "Sector": "Technology",
+   "Industry": "Retail: Computer Software & Peripheral Equipment"
+ },
+ {
+   "Symbol": "KDP",
+   "Name": "Keurig Dr Pepper Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Staples",
+   "Industry": "Beverages (Production/Distribution)"
+ },
+ {
+   "Symbol": "KHC",
+   "Name": "The Kraft Heinz Company Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Staples",
+   "Industry": "Farming/Seeds/Milling"
+ },
+ {
+   "Symbol": "KLAC",
+   "Name": "KLA Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 1980,
+   "Sector": "Technology",
+   "Industry": "Electronic Components"
+ },
+ {
+   "Symbol": "KRTX",
+   "Name": "Karuna Therapeutics Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2019,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "LAMR",
+   "Name": "Lamar Advertising Company Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 1996,
+   "Sector": "Real Estate",
+   "Industry": "Real Estate Investment Trusts"
+ },
+ {
+   "Symbol": "LANC",
+   "Name": "Lancaster Colony Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Staples",
+   "Industry": "Packaged Foods"
+ },
+ {
+   "Symbol": "LAZR",
+   "Name": "Luminar Technologies Inc.  Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2019,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Auto Parts:O.E.M."
+ },
+ {
+   "Symbol": "LBRDA",
+   "Name": "Liberty Broadband Corporation Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Telecommunications Equipment"
+ },
+ {
+   "Symbol": "LBRDK",
+   "Name": "Liberty Broadband Corporation Class C Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Telecommunications Equipment"
+ },
+ {
+   "Symbol": "LBTYA",
+   "Name": "Liberty Global plc Class A Ordinary Shares",
+   "Country": "United Kingdom",
+   "IPO Year": null,
+   "Sector": "Telecommunications",
+   "Industry": "Cable & Other Pay Television Services"
+ },
+ {
+   "Symbol": "LBTYB",
+   "Name": "Liberty Global plc Class B Ordinary Shares",
+   "Country": "United Kingdom",
+   "IPO Year": null,
+   "Sector": "Telecommunications",
+   "Industry": "Cable & Other Pay Television Services"
+ },
+ {
+   "Symbol": "LBTYK",
+   "Name": "Liberty Global plc Class C Ordinary Shares",
+   "Country": "United Kingdom",
+   "IPO Year": null,
+   "Sector": "Telecommunications",
+   "Industry": "Cable & Other Pay Television Services"
+ },
+ {
+   "Symbol": "LCID",
+   "Name": "Lucid Group Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Auto Manufacturing"
+ },
+ {
+   "Symbol": "LECO",
+   "Name": "Lincoln Electric Holdings Inc. Common Shares",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Industrial Machinery/Components"
+ },
+ {
+   "Symbol": "LEGN",
+   "Name": "Legend Biotech Corporation American Depositary Shares",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "LESL",
+   "Name": "Leslie's Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Miscellaneous",
+   "Industry": "Diversified Commercial Services"
+ },
+ {
+   "Symbol": "LFUS",
+   "Name": "Littelfuse Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Electronic Components"
+ },
+ {
+   "Symbol": "LGIH",
+   "Name": "LGI Homes Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2013,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Homebuilding"
+ },
+ {
+   "Symbol": "LHCG",
+   "Name": "LHC Group Common Stock",
+   "Country": "United States",
+   "IPO Year": 2005,
+   "Sector": "Health Care",
+   "Industry": "Medical/Nursing Services"
+ },
+ {
+   "Symbol": "LIFW",
+   "Name": "MSP Recovery Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "LITE",
+   "Name": "Lumentum Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Computer peripheral equipment"
+ },
+ {
+   "Symbol": "LIVN",
+   "Name": "LivaNova PLC Ordinary Shares",
+   "Country": "United Kingdom",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
+ },
+ {
+   "Symbol": "LKQ",
+   "Name": "LKQ Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 2003,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Automotive Aftermarket"
+ },
+ {
+   "Symbol": "LNT",
+   "Name": "Alliant Energy Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Utilities",
+   "Industry": "Power Generation"
+ },
+ {
+   "Symbol": "LNTH",
+   "Name": "Lantheus Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2015,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "LNW",
+   "Name": "Light & Wonder Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Movies/Entertainment"
+ },
+ {
+   "Symbol": "LOGI",
+   "Name": "Logitech International S.A. Ordinary Shares",
+   "Country": "United States",
+   "IPO Year": 1997,
+   "Sector": "Technology",
+   "Industry": "Computer peripheral equipment"
+ },
+ {
+   "Symbol": "LOPE",
+   "Name": "Grand Canyon Education Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2008,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Service to the Health Industry"
+ },
+ {
+   "Symbol": "LPLA",
+   "Name": "LPL Financial Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2010,
+   "Sector": "Finance",
+   "Industry": "Investment Bankers/Brokers/Service"
+ },
+ {
+   "Symbol": "LRCX",
+   "Name": "Lam Research Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 1984,
+   "Sector": "Technology",
+   "Industry": "Industrial Machinery/Components"
+ },
+ {
+   "Symbol": "LSCC",
+   "Name": "Lattice Semiconductor Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "LSTR",
+   "Name": "Landstar System Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1993,
+   "Sector": "Industrials",
+   "Industry": "Trucking Freight/Courier Services"
+ },
+ {
+   "Symbol": "LSXMA",
+   "Name": "Liberty Media Corporation Series A Liberty SiriusXM Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Broadcasting"
+ },
+ {
+   "Symbol": "LSXMB",
+   "Name": "Liberty Media Corporation Series B Liberty SiriusXM Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Broadcasting"
+ },
+ {
+   "Symbol": "LSXMK",
+   "Name": "Liberty Media Corporation Series C Liberty SiriusXM Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Broadcasting"
+ },
+ {
+   "Symbol": "LYFT",
+   "Name": "Lyft Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2019,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "MANH",
+   "Name": "Manhattan Associates Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1998,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "MAR",
+   "Name": "Marriott International Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Hotels/Resorts"
+ },
+ {
+   "Symbol": "MASI",
+   "Name": "Masimo Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 2007,
+   "Sector": "Health Care",
+   "Industry": "Medical/Dental Instruments"
+ },
+ {
+   "Symbol": "MAT",
+   "Name": "Mattel Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Recreational Games/Products/Toys"
+ },
+ {
+   "Symbol": "MCHP",
+   "Name": "Microchip Technology Incorporated Common Stock",
+   "Country": "United States",
+   "IPO Year": 1993,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "MDB",
+   "Name": "MongoDB Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2017,
+   "Sector": "Technology",
+   "Industry": "Retail: Computer Software & Peripheral Equipment"
+ },
+ {
+   "Symbol": "MDGL",
+   "Name": "Madrigal Pharmaceuticals Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2007,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "MDLZ",
+   "Name": "Mondelez International Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Staples",
+   "Industry": "Meat/Poultry/Fish"
+ },
+ {
+   "Symbol": "MEDP",
+   "Name": "Medpace Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2016,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Commercial Physical & Biological Resarch"
+ },
+ {
+   "Symbol": "META",
+   "Name": "Meta Platforms Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2012,
+   "Sector": "Technology",
+   "Industry": "Internet and Information Services"
+ },
+ {
+   "Symbol": "MGEE",
+   "Name": "MGE Energy Inc",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Utilities",
+   "Industry": "Power Generation"
+ },
+ {
+   "Symbol": "MGPI",
+   "Name": "MGP Ingredients Inc.",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Staples",
+   "Industry": "Beverages (Production/Distribution)"
+ },
+ {
+   "Symbol": "MGRC",
+   "Name": "McGrath RentCorp Common Stock",
+   "Country": "United States",
+   "IPO Year": 1984,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Diversified Commercial Services"
+ },
+ {
+   "Symbol": "MIDD",
+   "Name": "Middleby Corporation (The) Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Diversified Manufacture"
+ },
+ {
+   "Symbol": "MKSI",
+   "Name": "MKS Instruments Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1999,
+   "Sector": "Industrials",
+   "Industry": "Industrial Machinery/Components"
+ },
+ {
+   "Symbol": "MKTX",
+   "Name": "MarketAxess Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2004,
+   "Sector": "Finance",
+   "Industry": "Investment Bankers/Brokers/Service"
+ },
+ {
+   "Symbol": "MMSI",
+   "Name": "Merit Medical Systems Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": "Medical/Dental Instruments"
+ },
+ {
+   "Symbol": "MNST",
+   "Name": "Monster Beverage Corporation",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Staples",
+   "Industry": "Beverages (Production/Distribution)"
+ },
+ {
+   "Symbol": "MORN",
+   "Name": "Morningstar Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2005,
+   "Sector": "Finance",
+   "Industry": "Advertising"
+ },
+ {
+   "Symbol": "MPWR",
+   "Name": "Monolithic Power Systems Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2004,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "MQ",
+   "Name": "Marqeta Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "MRCY",
+   "Name": "Mercury Systems Inc Common Stock",
+   "Country": "United States",
+   "IPO Year": 1998,
+   "Sector": "",
+   "Industry": ""
+ },
+ {
+   "Symbol": "MRNA",
+   "Name": "Moderna Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2018,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+ },
+ {
+   "Symbol": "MRTX",
+   "Name": "Mirati Therapeutics Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "MRVL",
+   "Name": "Marvell Technology Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2000,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "MSFT",
+   "Name": "Microsoft Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 1986,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "MSTR",
+   "Name": "MicroStrategy Incorporated Common Stock Class A",
+   "Country": "United States",
+   "IPO Year": 1998,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "MTCH",
+   "Name": "Match Group Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Programming Data Processing"
+ },
+ {
+   "Symbol": "MTSI",
+   "Name": "MACOM Technology Solutions Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2012,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "MU",
+   "Name": "Micron Technology Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "MXL",
+   "Name": "MaxLinear Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2010,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "NARI",
+   "Name": "Inari Medical Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
+ },
+ {
+   "Symbol": "NATI",
+   "Name": "National Instruments Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 1995,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "NAVI",
+   "Name": "Navient Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Finance: Consumer Services"
+ },
+ {
+   "Symbol": "NBIX",
+   "Name": "Neurocrine Biosciences Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1996,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+ },
+ {
+   "Symbol": "NCNO",
+   "Name": "nCino Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "NDAQ",
+   "Name": "Nasdaq Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Investment Bankers/Brokers/Service"
+ },
+ {
+   "Symbol": "NDSN",
+   "Name": "Nordson Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Industrial Machinery/Components"
+ },
+ {
+   "Symbol": "NEOG",
+   "Name": "Neogen Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 1989,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances"
+ },
+ {
+   "Symbol": "NFE",
+   "Name": "New Fortress Energy Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2019,
+   "Sector": "Utilities",
+   "Industry": "Oil/Gas Transmission"
+ },
+ {
+   "Symbol": "NFLX",
+   "Name": "Netflix Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2002,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Consumer Electronics/Video Chains"
+ },
+ {
+   "Symbol": "NOVT",
+   "Name": "Novanta Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "",
+   "Industry": ""
+ },
+ {
+   "Symbol": "NSIT",
+   "Name": "Insight Enterprises Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1995,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "NTAP",
+   "Name": "NetApp Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1995,
+   "Sector": "Technology",
+   "Industry": "Electronic Components"
+ },
+ {
+   "Symbol": "NTCT",
+   "Name": "NetScout Systems Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1999,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "NTLA",
+   "Name": "Intellia Therapeutics Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2016,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: In Vitro & In Vivo Diagnostic Substances"
+ },
+ {
+   "Symbol": "NTNX",
+   "Name": "Nutanix Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2016,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "NTRA",
+   "Name": "Natera Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2015,
+   "Sector": "Health Care",
+   "Industry": "Medical Specialities"
+ },
+ {
+   "Symbol": "NTRS",
+   "Name": "Northern Trust Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Trusts Except Educational Religious and Charitable"
+ },
+ {
+   "Symbol": "NUVA",
+   "Name": "NuVasive Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2004,
+   "Sector": "Health Care",
+   "Industry": "Medical/Dental Instruments"
+ },
+ {
+   "Symbol": "NVDA",
+   "Name": "NVIDIA Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 1999,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "NWE",
+   "Name": "NorthWestern Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Utilities",
+   "Industry": "Power Generation"
+ },
+ {
+   "Symbol": "NWL",
+   "Name": "Newell Brands Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Plastic Products"
+ },
+ {
+   "Symbol": "NWS",
+   "Name": "News Corporation Class B Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Movies/Entertainment"
+ },
+ {
+   "Symbol": "NWSA",
+   "Name": "News Corporation Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Movies/Entertainment"
+ },
+ {
+   "Symbol": "NXST",
+   "Name": "Nexstar Media Group Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2003,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Movies/Entertainment"
+ },
+ {
+   "Symbol": "ODFL",
+   "Name": "Old Dominion Freight Line Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1991,
+   "Sector": "Industrials",
+   "Industry": "Trucking Freight/Courier Services"
+ },
+ {
+   "Symbol": "ODP",
+   "Name": "The ODP Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Miscellaneous",
+   "Industry": "Diversified Commercial Services"
+ },
+ {
+   "Symbol": "OKTA",
+   "Name": "Okta Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2017,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "OLED",
+   "Name": "Universal Display Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Industrial Machinery/Components"
+ },
+ {
+   "Symbol": "OLLI",
+   "Name": "Ollie's Bargain Outlet Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2015,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Department/Specialty Retail Stores"
+ },
+ {
+   "Symbol": "OLPX",
+   "Name": "Olaplex Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Miscellaneous",
+   "Industry": "Diversified Commercial Services"
+ },
+ {
+   "Symbol": "OMCL",
+   "Name": "Omnicell Inc. Common Stock ($0.001 par value)",
+   "Country": "United States",
+   "IPO Year": 2001,
+   "Sector": "Health Care",
+   "Industry": "Managed Health Care"
+ },
+ {
+   "Symbol": "ON",
+   "Name": "ON Semiconductor Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "ONB",
+   "Name": "Old National Bancorp Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "ONEM",
+   "Name": "1Life Healthcare Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Health Care",
+   "Industry": "Medical/Nursing Services"
+ },
+ {
+   "Symbol": "OPCH",
+   "Name": "Option Care Health Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": "Medical/Nursing Services"
+ },
+ {
+   "Symbol": "ORLY",
+   "Name": "O'Reilly Automotive Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1993,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Auto & Home Supply Stores"
+ },
+ {
+   "Symbol": "OTTR",
+   "Name": "Otter Tail Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Utilities",
+   "Industry": "Electric Utilities: Central"
+ },
+ {
+   "Symbol": "OZK",
+   "Name": "Bank OZK Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "PAA",
+   "Name": "Plains All American Pipeline L.P. Common Units representing Limited Partner Interests",
+   "Country": "United States",
+   "IPO Year": 1998,
+   "Sector": "Energy",
+   "Industry": "Oil & Gas Production"
+ },
+ {
+   "Symbol": "PACB",
+   "Name": "Pacific Biosciences of California Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2010,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
+ },
+ {
+   "Symbol": "PACW",
+   "Name": "PacWest Bancorp Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "PAGP",
+   "Name": "Plains GP Holdings L.P. Class A Units representing Limited Partner Interests",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Energy",
+   "Industry": "Oil & Gas Production"
+ },
+ {
+   "Symbol": "PANW",
+   "Name": "Palo Alto Networks Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "PARA",
+   "Name": "Paramount Global Class B Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Movies/Entertainment"
+ },
+ {
+   "Symbol": "PARAA",
+   "Name": "Paramount Global Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Movies/Entertainment"
+ },
+ {
+   "Symbol": "PAYX",
+   "Name": "Paychex Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1983,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Business Services"
+ },
+ {
+   "Symbol": "PCAR",
+   "Name": "PACCAR Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Construction/Ag Equipment/Trucks"
+ },
+ {
+   "Symbol": "PCH",
+   "Name": "PotlatchDeltic Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Real Estate",
+   "Industry": "Real Estate Investment Trusts"
+ },
+ {
+   "Symbol": "PCTY",
+   "Name": "Paylocity Holding Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 2014,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "PCVX",
+   "Name": "Vaxcyte Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "PDCE",
+   "Name": "PDC Energy Inc. Common Stock (Delaware)",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Energy",
+   "Industry": "Oil & Gas Production"
+ },
+ {
+   "Symbol": "PDCO",
+   "Name": "Patterson Companies Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1992,
+   "Sector": "Health Care",
+   "Industry": "Medical Specialities"
+ },
+ {
+   "Symbol": "PECO",
+   "Name": "Phillips Edison & Company Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Real Estate",
+   "Industry": "Real Estate Investment Trusts"
+ },
+ {
+   "Symbol": "PEGA",
+   "Name": "Pegasystems Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1996,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "PENN",
+   "Name": "PENN Entertainment Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1994,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Movies/Entertainment"
+ },
+ {
+   "Symbol": "PEP",
+   "Name": "PepsiCo Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Staples",
+   "Industry": "Beverages (Production/Distribution)"
+ },
+ {
+   "Symbol": "PFG",
+   "Name": "Principal Financial Group Inc Common Stock",
+   "Country": "United States",
+   "IPO Year": 2001,
+   "Sector": "Finance",
+   "Industry": "Investment Managers"
+ },
+ {
+   "Symbol": "PGNY",
+   "Name": "Progyny Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2019,
+   "Sector": "Health Care",
+   "Industry": "Managed Health Care"
+ },
+ {
+   "Symbol": "PI",
+   "Name": "Impinj Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2016,
+   "Sector": "Utilities",
+   "Industry": "Telecommunications Equipment"
+ },
+ {
+   "Symbol": "PINC",
+   "Name": "Premier Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2013,
+   "Sector": "Health Care",
+   "Industry": "Managed Health Care"
+ },
+ {
+   "Symbol": "PLUG",
+   "Name": "Plug Power Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1999,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Electrical Products"
+ },
+ {
+   "Symbol": "PLXS",
+   "Name": "Plexus Corp. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Electrical Products"
+ },
+ {
+   "Symbol": "PNFP",
+   "Name": "Pinnacle Financial Partners Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "PODD",
+   "Name": "Insulet Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 2007,
+   "Sector": "Health Care",
+   "Industry": "Medical/Dental Instruments"
+ },
+ {
+   "Symbol": "POOL",
+   "Name": "Pool Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 1995,
+   "Sector": "Industrials",
+   "Industry": "Industrial Machinery/Components"
+ },
+ {
+   "Symbol": "POWI",
+   "Name": "Power Integrations Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1997,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "PPBI",
+   "Name": "Pacific Premier Bancorp Inc",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "PPC",
+   "Name": "Pilgrim's Pride Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Staples",
+   "Industry": "Meat/Poultry/Fish"
+ },
+ {
+   "Symbol": "PRFT",
+   "Name": "Perficient Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1999,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "PRGS",
+   "Name": "Progress Software Corporation Common Stock (DE)",
+   "Country": "United States",
+   "IPO Year": 1991,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "PROK",
+   "Name": "ProKidney Corp. Class A Ordinary Shares",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+ },
+ {
+   "Symbol": "PRTA",
+   "Name": "Prothena Corporation plc Ordinary Shares",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "PRVA",
+   "Name": "Privia Health Group Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Technology",
+   "Industry": "Retail: Computer Software & Peripheral Equipment"
+ },
+ {
+   "Symbol": "PSEC",
+   "Name": "Prospect Capital Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 2004,
+   "Sector": "Finance",
+   "Industry": "Finance/Investors Services"
+ },
+ {
+   "Symbol": "PSMT",
+   "Name": "PriceSmart Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Department/Specialty Retail Stores"
+ },
+ {
+   "Symbol": "PTC",
+   "Name": "PTC Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "PTCT",
+   "Name": "PTC Therapeutics Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2013,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "PTEN",
+   "Name": "Patterson-UTI Energy Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1993,
+   "Sector": "Energy",
+   "Industry": "Oil & Gas Production"
+ },
+ {
+   "Symbol": "PTON",
+   "Name": "Peloton Interactive Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2019,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Other Consumer Services"
+ },
+ {
+   "Symbol": "PYCR",
+   "Name": "Paycor HCM Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "PYPL",
+   "Name": "PayPal Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Business Services"
+ },
+ {
+   "Symbol": "PZZA",
+   "Name": "Papa John's International Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1993,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Restaurants"
+ },
+ {
+   "Symbol": "QCOM",
+   "Name": "QUALCOMM Incorporated Common Stock",
+   "Country": "United States",
+   "IPO Year": 1991,
+   "Sector": "Technology",
+   "Industry": "Computer peripheral equipment"
+ },
+ {
+   "Symbol": "QDEL",
+   "Name": "QuidelOrtho Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": "Medical/Dental Instruments"
+ },
+ {
+   "Symbol": "QLYS",
+   "Name": "Qualys Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2012,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "QRTEB",
+   "Name": "Qurate Retail Inc. Series B Common Stock ",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Catalog/Specialty Distribution"
+ },
+ {
+   "Symbol": "QRVO",
+   "Name": "Qorvo Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Industrial Machinery/Components"
+ },
+ {
+   "Symbol": "RARE",
+   "Name": "Ultragenyx Pharmaceutical Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2014,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "RCM",
+   "Name": "R1 RCM Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Other Consumer Services"
+ },
+ {
+   "Symbol": "REG",
+   "Name": "Regency Centers Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 1993,
+   "Sector": "Real Estate",
+   "Industry": "Real Estate Investment Trusts"
+ },
+ {
+   "Symbol": "REGN",
+   "Name": "Regeneron Pharmaceuticals Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1991,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "REYN",
+   "Name": "Reynolds Consumer Products Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Industrials",
+   "Industry": "Office Equipment/Supplies/Services"
+ },
+ {
+   "Symbol": "RGEN",
+   "Name": "Repligen Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 1986,
+   "Sector": "Health Care",
+   "Industry": "Medical/Dental Instruments"
+ },
+ {
+   "Symbol": "RGLD",
+   "Name": "Royal Gold Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Consumer Electronics/Appliances"
+ },
+ {
+   "Symbol": "RIVN",
+   "Name": "Rivian Automotive Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Auto Manufacturing"
+ },
+ {
+   "Symbol": "RKLB",
+   "Name": "Rocket Lab USA Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Industrials",
+   "Industry": "Aerospace"
+ },
+ {
+   "Symbol": "RLAY",
+   "Name": "Relay Therapeutics Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "RMBS",
+   "Name": "Rambus Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1997,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "RNST",
+   "Name": "Renasant Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "RNW",
+   "Name": "ReNew Energy Global plc Class A Ordinary Shares",
+   "Country": "United Kingdom",
+   "IPO Year": null,
+   "Sector": "Utilities",
+   "Industry": "Electric Utilities: Central"
+ },
+ {
+   "Symbol": "ROIV",
+   "Name": "Roivant Sciences Ltd. Common Shares",
+   "Country": "United Kingdom",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "ROKU",
+   "Name": "Roku Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2017,
+   "Sector": "Telecommunications",
+   "Industry": "Cable & Other Pay Television Services"
+ },
+ {
+   "Symbol": "ROST",
+   "Name": "Ross Stores Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1985,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Clothing/Shoe/Accessory Stores"
+ },
+ {
+   "Symbol": "RPD",
+   "Name": "Rapid7 Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2015,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "RPRX",
+   "Name": "Royalty Pharma plc Class A Ordinary Shares ",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "RRR",
+   "Name": "Red Rock Resorts Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2016,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Recreational Games/Products/Toys"
+ },
+ {
+   "Symbol": "RUM",
+   "Name": "Rumble Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "RUN",
+   "Name": "Sunrun Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2015,
+   "Sector": "Industrials",
+   "Industry": "Building Products"
+ },
+ {
+   "Symbol": "RUSHA",
+   "Name": "Rush Enterprises Inc. Common Stock Cl A",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Other Specialty Stores"
+ },
+ {
+   "Symbol": "RUSHB",
+   "Name": "Rush Enterprises Inc. Class B",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Other Specialty Stores"
+ },
+ {
+   "Symbol": "RVMD",
+   "Name": "Revolution Medicines Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Health Care",
+   "Industry": " Medicinal Chemicals and Botanical Products "
+ },
+ {
+   "Symbol": "RVNC",
+   "Name": "Revance Therapeutics Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2014,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "RXDX",
+   "Name": "Prometheus Biosciences Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "SAGE",
+   "Name": "Sage Therapeutics Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2014,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "SAIA",
+   "Name": "Saia Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Trucking Freight/Courier Services"
+ },
+ {
+   "Symbol": "SANM",
+   "Name": "Sanmina Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 1993,
+   "Sector": "Technology",
+   "Industry": "Electrical Products"
+ },
+ {
+   "Symbol": "SBAC",
+   "Name": "SBA Communications Corporation Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 1999,
+   "Sector": "Real Estate",
+   "Industry": "Real Estate Investment Trusts"
+ },
+ {
+   "Symbol": "SBCF",
+   "Name": "Seacoast Banking Corporation of Florida Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "SBNY",
+   "Name": "Signature Bank Common Stock",
+   "Country": "United States",
+   "IPO Year": 2004,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "SBRA",
+   "Name": "Sabra Health Care REIT Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Real Estate",
+   "Industry": "Real Estate Investment Trusts"
+ },
+ {
+   "Symbol": "SBUX",
+   "Name": "Starbucks Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 1992,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Beverages - Non-Alcoholic"
+ },
+ {
+   "Symbol": "SEIC",
+   "Name": "SEI Investments Company Common Stock",
+   "Country": "United States",
+   "IPO Year": 1981,
+   "Sector": "Finance",
+   "Industry": "Investment Bankers/Brokers/Service"
+ },
+ {
+   "Symbol": "SFM",
+   "Name": "Sprouts Farmers Market Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2013,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Specialty Foods"
+ },
+ {
+   "Symbol": "SFNC",
+   "Name": "Simmons First National Corporation Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "SGEN",
+   "Name": "Seagen Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2001,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+ },
+ {
+   "Symbol": "SGRY",
+   "Name": "Surgery Partners Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2015,
+   "Sector": "Health Care",
+   "Industry": "Managed Health Care"
+ },
+ {
+   "Symbol": "SHC",
+   "Name": "Sotera Health Company Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Health Care",
+   "Industry": "Medical Specialities"
+ },
+ {
+   "Symbol": "SHLS",
+   "Name": "Shoals Technologies Group Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "SHOO",
+   "Name": "Steven Madden Ltd. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1993,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Shoe Manufacturing"
+ },
+ {
+   "Symbol": "SIGI",
+   "Name": "Selective Insurance Group Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Property-Casualty Insurers"
+ },
+ {
+   "Symbol": "SIRI",
+   "Name": "Sirius XM Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Movies/Entertainment"
+ },
+ {
+   "Symbol": "SITM",
+   "Name": "SiTime Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 2019,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "SIVB",
+   "Name": "SVB Financial Group Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "SLAB",
+   "Name": "Silicon Laboratories Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2000,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "SLM",
+   "Name": "SLM Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Finance: Consumer Services"
+ },
+ {
+   "Symbol": "SMCI",
+   "Name": "Super Micro Computer Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Technology",
+   "Industry": "Computer Manufacturing"
+ },
+ {
+   "Symbol": "SMPL",
+   "Name": "The Simply Good Foods Company Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Staples",
+   "Industry": "Packaged Foods"
+ },
+ {
+   "Symbol": "SNEX",
+   "Name": "StoneX Group Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Investment Bankers/Brokers/Service"
+ },
+ {
+   "Symbol": "SNPS",
+   "Name": "Synopsys Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1992,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "SOFI",
+   "Name": "SoFi Technologies Inc. Common Stock  ",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Diversified Financial Services"
+ },
+ {
+   "Symbol": "SONO",
+   "Name": "Sonos Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2018,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Consumer Electronics/Video Chains"
+ },
+ {
+   "Symbol": "SPLK",
+   "Name": "Splunk Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2012,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "SPSC",
+   "Name": "SPS Commerce Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2010,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "SPT",
+   "Name": "Sprout Social Inc Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2019,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "SPWR",
+   "Name": "SunPower Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 2005,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "SRCL",
+   "Name": "Stericycle Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1996,
+   "Sector": "Utilities",
+   "Industry": "Environmental Services"
+ },
+ {
+   "Symbol": "SRPT",
+   "Name": "Sarepta Therapeutics Inc. Common Stock (DE)",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "SSB",
+   "Name": "SouthState Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "SSNC",
+   "Name": "SS&C Technologies Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2010,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "STAA",
+   "Name": "STAAR Surgical Company Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": "Ophthalmic Goods"
+ },
+ {
+   "Symbol": "STLD",
+   "Name": "Steel Dynamics Inc.",
+   "Country": "United States",
+   "IPO Year": 1996,
+   "Sector": "Industrials",
+   "Industry": "Steel/Iron Ore"
+ },
+ {
+   "Symbol": "STRA",
+   "Name": "Strategic Education Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1996,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Service to the Health Industry"
+ },
+ {
+   "Symbol": "SUPN",
+   "Name": "Supernus Pharmaceuticals Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2012,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "SWAV",
+   "Name": "ShockWave Medical Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2019,
+   "Sector": "Health Care",
+   "Industry": "Medical/Dental Instruments"
+ },
+ {
+   "Symbol": "SWKS",
+   "Name": "Skyworks Solutions Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "SYNA",
+   "Name": "Synaptics Incorporated Common Stock $0.001 Par Value",
+   "Country": "United States",
+   "IPO Year": 2002,
+   "Sector": "Technology",
+   "Industry": "Computer peripheral equipment"
+ },
+ {
+   "Symbol": "SYNH",
+   "Name": "Syneos Health Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2014,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Commercial Physical & Biological Resarch"
+ },
+ {
+   "Symbol": "TCBI",
+   "Name": "Texas Capital Bancshares Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2003,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "TECH",
+   "Name": "Bio-Techne Corp Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Biological Products (No Diagnostic Substances)"
+ },
+ {
+   "Symbol": "TENB",
+   "Name": "Tenable Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2018,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "TER",
+   "Name": "Teradyne Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Electrical Products"
+ },
+ {
+   "Symbol": "TFSL",
+   "Name": "TFS Financial Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 2007,
+   "Sector": "Finance",
+   "Industry": "Savings Institutions"
+ },
+ {
+   "Symbol": "TGTX",
+   "Name": "TG Therapeutics Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "THRM",
+   "Name": "Gentherm Inc Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Auto Parts:O.E.M."
+ },
+ {
+   "Symbol": "TMDX",
+   "Name": "TransMedics Group Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2019,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Electromedical & Electrotherapeutic Apparatus"
+ },
+ {
+   "Symbol": "TMUS",
+   "Name": "T-Mobile US Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Telecommunications",
+   "Industry": "Telecommunications Equipment"
+ },
+ {
+   "Symbol": "TNDM",
+   "Name": "Tandem Diabetes Care Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2013,
+   "Sector": "Health Care",
+   "Industry": "Medical/Dental Instruments"
+ },
+ {
+   "Symbol": "TOWN",
+   "Name": "TowneBank Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "TPG",
+   "Name": "TPG Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2022,
+   "Sector": "Finance",
+   "Industry": "Trusts Except Educational Religious and Charitable"
+ },
+ {
+   "Symbol": "TRIP",
+   "Name": "TripAdvisor Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "",
+   "Industry": ""
+ },
+ {
+   "Symbol": "TRMB",
+   "Name": "Trimble Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1990,
+   "Sector": "Industrials",
+   "Industry": "Industrial Machinery/Components"
+ },
+ {
+   "Symbol": "TRMD",
+   "Name": "TORM plc Class A Common Stock",
+   "Country": "United Kingdom",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Marine Transportation"
+ },
+ {
+   "Symbol": "TROW",
+   "Name": "T. Rowe Price Group Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1986,
+   "Sector": "Finance",
+   "Industry": "Investment Managers"
+ },
+ {
+   "Symbol": "TRUP",
+   "Name": "Trupanion Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": "Medical Specialities"
+ },
+ {
+   "Symbol": "TSCO",
+   "Name": "Tractor Supply Company Common Stock",
+   "Country": "United States",
+   "IPO Year": 1994,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Other Specialty Stores"
+ },
+ {
+   "Symbol": "TSLA",
+   "Name": "Tesla Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2010,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Auto Manufacturing"
+ },
+ {
+   "Symbol": "TTD",
+   "Name": "The Trade Desk Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2016,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "TTEC",
+   "Name": "TTEC Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1996,
+   "Sector": "Technology",
+   "Industry": "Retail: Computer Software & Peripheral Equipment"
+ },
+ {
+   "Symbol": "TTEK",
+   "Name": "Tetra Tech Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1991,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Military/Government/Technical"
+ },
+ {
+   "Symbol": "TTWO",
+   "Name": "Take-Two Interactive Software Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1997,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "TW",
+   "Name": "Tradeweb Markets Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2019,
+   "Sector": "Finance",
+   "Industry": "Investment Bankers/Brokers/Service"
+ },
+ {
+   "Symbol": "TWKS",
+   "Name": "Thoughtworks Holding Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "TWNK",
+   "Name": "Hostess Brands Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2015,
+   "Sector": "Consumer Staples",
+   "Industry": "Specialty Foods"
+ },
+ {
+   "Symbol": "TXG",
+   "Name": "10x Genomics Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2019,
+   "Sector": "Health Care",
+   "Industry": "Managed Health Care"
+ },
+ {
+   "Symbol": "TXN",
+   "Name": "Texas Instruments Incorporated Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Semiconductors"
+ },
+ {
+   "Symbol": "TXRH",
+   "Name": "Texas Roadhouse Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2004,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Restaurants"
+ },
+ {
+   "Symbol": "UAL",
+   "Name": "United Airlines Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Air Freight/Delivery Services"
+ },
+ {
+   "Symbol": "UBSI",
+   "Name": "United Bankshares Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "UCBI",
+   "Name": "United Community Banks Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "UFPI",
+   "Name": "UFP Industries Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1993,
+   "Sector": "Basic Materials",
+   "Industry": "Forest Products"
+ },
+ {
+   "Symbol": "ULCC",
+   "Name": "Frontier Group Holdings Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Air Freight/Delivery Services"
+ },
+ {
+   "Symbol": "ULTA",
+   "Name": "Ulta Beauty Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2007,
+   "Sector": "",
+   "Industry": ""
+ },
+ {
+   "Symbol": "UMBF",
+   "Name": "UMB Financial Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Commercial Banks"
+ },
+ {
+   "Symbol": "UMPQ",
+   "Name": "Umpqua Holdings Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Commercial Banks"
+ },
+ {
+   "Symbol": "URBN",
+   "Name": "Urban Outfitters Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1993,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Clothing/Shoe/Accessory Stores"
+ },
+ {
+   "Symbol": "UTHR",
+   "Name": "United Therapeutics Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 1999,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "VC",
+   "Name": "Visteon Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Auto Parts:O.E.M."
+ },
+ {
+   "Symbol": "VCTR",
+   "Name": "Victory Capital Holdings Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2018,
+   "Sector": "Finance",
+   "Industry": "Investment Managers"
+ },
+ {
+   "Symbol": "VERX",
+   "Name": "Vertex Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "VIAV",
+   "Name": "Viavi Solutions Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Radio And Television Broadcasting And Communications Equipment"
+ },
+ {
+   "Symbol": "VICR",
+   "Name": "Vicor Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Industrial Machinery/Components"
+ },
+ {
+   "Symbol": "VIR",
+   "Name": "Vir Biotechnology Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2019,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "VIRT",
+   "Name": "Virtu Financial Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2015,
+   "Sector": "Finance",
+   "Industry": "Investment Bankers/Brokers/Service"
+ },
+ {
+   "Symbol": "VLY",
+   "Name": "Valley National Bancorp Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "VNOM",
+   "Name": "Viper Energy Partners LP Common Unit",
+   "Country": "United States",
+   "IPO Year": 2014,
+   "Sector": "Energy",
+   "Industry": "Oil & Gas Production"
+ },
+ {
+   "Symbol": "VOD",
+   "Name": "Vodafone Group Plc American Depositary Shares",
+   "Country": "United Kingdom",
+   "IPO Year": null,
+   "Sector": "Telecommunications",
+   "Industry": "Telecommunications Equipment"
+ },
+ {
+   "Symbol": "VRNS",
+   "Name": "Varonis Systems Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2014,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "VRNT",
+   "Name": "Verint Systems Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2010,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "VRRM",
+   "Name": "Verra Mobility Corporation Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2017,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Other Consumer Services"
+ },
+ {
+   "Symbol": "VRSK",
+   "Name": "Verisk Analytics Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2009,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Business Services"
+ },
+ {
+   "Symbol": "VRSN",
+   "Name": "VeriSign Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1998,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "VRTX",
+   "Name": "Vertex Pharmaceuticals Incorporated Common Stock",
+   "Country": "United States",
+   "IPO Year": 1991,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "VSAT",
+   "Name": "ViaSat Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1996,
+   "Sector": "Technology",
+   "Industry": "Radio And Television Broadcasting And Communications Equipment"
+ },
+ {
+   "Symbol": "VTRS",
+   "Name": "Viatris Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Health Care",
+   "Industry": " Medicinal Chemicals and Botanical Products "
+ },
+ {
+   "Symbol": "VTYX",
+   "Name": "Ventyx Biosciences Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Health Care",
+   "Industry": " Medicinal Chemicals and Botanical Products "
+ },
+ {
+   "Symbol": "WAFD",
+   "Name": "Washington Federal Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "WBA",
+   "Name": "Walgreens Boots Alliance Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Staples",
+   "Industry": "Retail-Drug Stores and Proprietary Stores"
+ },
+ {
+   "Symbol": "WBD",
+   "Name": "Warner Bros. Discovery Inc. Series A Common Stock ",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Telecommunications",
+   "Industry": "Cable & Other Pay Television Services"
+ },
+ {
+   "Symbol": "WDAY",
+   "Name": "Workday Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "WDC",
+   "Name": "Western Digital Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "Electronic Components"
+ },
+ {
+   "Symbol": "WDFC",
+   "Name": "WD-40 Company Common Stock",
+   "Country": "United States",
+   "IPO Year": 1973,
+   "Sector": "Industrials",
+   "Industry": "Industrial Specialties"
+ },
+ {
+   "Symbol": "WEN",
+   "Name": "Wendy's Company (The) Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Restaurants"
+ },
+ {
+   "Symbol": "WERN",
+   "Name": "Werner Enterprises Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1986,
+   "Sector": "Industrials",
+   "Industry": "Trucking Freight/Courier Services"
+ },
+ {
+   "Symbol": "WFRD",
+   "Name": "Weatherford International plc Ordinary Shares",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Metal Fabrications"
+ },
+ {
+   "Symbol": "WING",
+   "Name": "Wingstop Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2015,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Restaurants"
+ },
+ {
+   "Symbol": "WIRE",
+   "Name": "Encore Wire Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": 1992,
+   "Sector": "Industrials",
+   "Industry": "Metal Fabrications"
+ },
+ {
+   "Symbol": "WMG",
+   "Name": "Warner Music Group Corp. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Movies/Entertainment"
+ },
+ {
+   "Symbol": "WOOF",
+   "Name": "Petco Health and Wellness Company Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Miscellaneous",
+   "Industry": "Diversified Commercial Services"
+ },
+ {
+   "Symbol": "WSBC",
+   "Name": "WesBanco Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "WSC",
+   "Name": "WillScot Mobile Mini Holdings Corp. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2015,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Diversified Commercial Services"
+ },
+ {
+   "Symbol": "WSFS",
+   "Name": "WSFS Financial Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "WTFC",
+   "Name": "Wintrust Financial Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "WTW",
+   "Name": "Willis Towers Watson Public Limited Company Ordinary Shares",
+   "Country": "United Kingdom",
+   "IPO Year": 2001,
+   "Sector": "Finance",
+   "Industry": "Specialty Insurers"
+ },
+ {
+   "Symbol": "WWD",
+   "Name": "Woodward Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Industrials",
+   "Industry": "Military/Government/Technical"
+ },
+ {
+   "Symbol": "WYNN",
+   "Name": "Wynn Resorts Limited Common stock",
+   "Country": "United States",
+   "IPO Year": 2002,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Hotels/Resorts"
+ },
+ {
+   "Symbol": "XEL",
+   "Name": "Xcel Energy Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Utilities",
+   "Industry": "Power Generation"
+ },
+ {
+   "Symbol": "XM",
+   "Name": "Qualtrics International Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2021,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "XNCR",
+   "Name": "Xencor Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2013,
+   "Sector": "Health Care",
+   "Industry": "Biotechnology: Pharmaceutical Preparations"
+ },
+ {
+   "Symbol": "XPEL",
+   "Name": "XPEL Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Auto Parts:O.E.M."
+ },
+ {
+   "Symbol": "XRAY",
+   "Name": "DENTSPLY SIRONA Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 1987,
+   "Sector": "Health Care",
+   "Industry": "Medical/Dental Instruments"
+ },
+ {
+   "Symbol": "XRX",
+   "Name": "Xerox Holdings Corporation Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ },
+ {
+   "Symbol": "Z",
+   "Name": "Zillow Group Inc. Class C Capital Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Business Services"
+ },
+ {
+   "Symbol": "ZBRA",
+   "Name": "Zebra Technologies Corporation Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 1991,
+   "Sector": "Technology",
+   "Industry": "Computer peripheral equipment"
+ },
+ {
+   "Symbol": "ZD",
+   "Name": "Ziff Davis Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Advertising"
+ },
+ {
+   "Symbol": "ZG",
+   "Name": "Zillow Group Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2011,
+   "Sector": "Consumer Discretionary",
+   "Industry": "Business Services"
+ },
+ {
+   "Symbol": "ZI",
+   "Name": "ZoomInfo Technologies Inc Common Stock",
+   "Country": "United States",
+   "IPO Year": 2020,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "ZION",
+   "Name": "Zions Bancorporation N.A. Common Stock",
+   "Country": "United States",
+   "IPO Year": null,
+   "Sector": "Finance",
+   "Industry": "Major Banks"
+ },
+ {
+   "Symbol": "ZM",
+   "Name": "Zoom Video Communications Inc. Class A Common Stock",
+   "Country": "United States",
+   "IPO Year": 2019,
+   "Sector": "Technology",
+   "Industry": "Computer Software: Prepackaged Software"
+ },
+ {
+   "Symbol": "ZS",
+   "Name": "Zscaler Inc. Common Stock",
+   "Country": "United States",
+   "IPO Year": 2018,
+   "Sector": "Technology",
+   "Industry": "EDP Services"
+ }
+]
